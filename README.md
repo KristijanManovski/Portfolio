@@ -17,7 +17,7 @@ Through meticulous testing and comprehensive analysis, I strive to contribute to
 Join me as I showcase my expertise, insights, and contributions to the world of software testing.
 
 ## CV
-You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/17dQfbcnKhqFO8CxxMF-SfoVGySWkG3Ks/view)
+You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/17dQfbcnKhqFO8CxxMF-SfoVGySWkG3Ks/view).
 
 ## Skills
 
@@ -33,9 +33,10 @@ You can download my CV as [a PDF from my Google Drive](https://drive.google.com/
 •	Microsoft Office
 
 __Manual testing__
-•	Can perform manual functional and usability testing of web applications
-•	Gained hands-on experience by testing applications created educational purposes
-•	Gained a lot of experience by testing web sites during my 8 months education at SEDC Academy for software testing
+
+- Can perform manual functional and usability testing of web applications
+- Gained hands-on experience by testing applications created for educational purposes
+- Gained a lot of experience by testing websites during my 8 months education at SEDC Academy for software testing
 
 __Test analysis & design__
 •	Familiar with functional decomposition of products, creating state transition diagrams, writing use cases
