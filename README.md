@@ -17,7 +17,7 @@ Through meticulous testing and comprehensive analysis, I strive to contribute to
 Join me as I showcase my expertise, insights, and contributions to the world of software testing.
 
 ## CV
-You can download my CV as [Click here to access the file](https://drive.google.com/file/d/17dQfbcnKhqFO8CxxMF-SfoVGySWkG3Ks/view)
+You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/17dQfbcnKhqFO8CxxMF-SfoVGySWkG3Ks/view)
 
 ## Skills
 
