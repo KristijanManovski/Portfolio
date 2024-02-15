@@ -1,5 +1,6 @@
 # Portfolio
 - [About me](#about-me)
+- [Education](#education)
 - [CV](#cv)
 - [LinkedIn](#linkedin)
 - [Skills](#skills)
@@ -12,6 +13,16 @@ With a keen eye for detecting bugs and a commitment to delivering top-notch user
 My experience spans across various testing methodologies and tools, allowing me to effectively collaborate with cross-functional teams to achieve project objectives.
 Through meticulous testing and comprehensive analysis, I strive to contribute to the creation of reliable and seamless software solutions.
 Join me as I showcase my expertise, insights, and contributions to the world of software testing.
+
+## Education
+
+- Bachelor of Laws (LL.B.), Faculty of Law
+  Iustinianus Primus, SS. Cyril and Methodius University of Skopje, Macedonia
+  Graduated: 2022
+
+- Software Testing Certification
+  SEDC Academy, Skopje, Macedonia
+  Completed: 2024
 
 ## CV
 You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/17dQfbcnKhqFO8CxxMF-SfoVGySWkG3Ks/view).
