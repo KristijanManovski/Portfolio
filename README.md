@@ -8,6 +8,7 @@
 - [Examples of my work](#examples-of-my-work)
   * [Bug reports in Redmine](#bug-reports-in-Redmine)
   * [Mindmaps](#mindmaps)
+  * [Test Charter](#TestCharter)
 
 ## About me
 
@@ -109,7 +110,9 @@ __Mind maps & Diagrams__
 * Mindmap for team-building event Check [the mindmap](https://drive.google.com/drive/u/6/my-drive).
 * Mindmap for Twitter/X functionalities Check [the mindmap](https://drive.google.com/drive/u/6/home). 
 
-
+### Test Charter
+* Test Charter i did for Facebook for my homework during my Academy at SEDC for software testing
+* You can check my test charter for Facebook as [a PDF from my Google Drive](https://drive.google.com/file/d/1BsDQEFa0iL_FA7LokjWumamsE4EJwa_x/view)
 
 
 
