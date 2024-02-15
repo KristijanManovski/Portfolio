@@ -94,3 +94,23 @@ __Jira__
 __Mind maps & Diagrams__
 
 • Know how to design simple mind maps
+
+## Examples of my work
+
+### Bug reports and work in Redmine
+
+-Several bugs i found on [the training webpage TEST PREFIX ](https://qatest-dev.indvp.com/) and reported:
+* Bug #1. Check [the screenshot of the bug report in Redmine](https://drive.google.com/file/d/193mJM84uQee-QqmsW6xecSJmg5ObRYIc/view)
+* Bug #2. Check [the screenshot of the bug report in Redmine](https://drive.google.com/file/d/1DW-Ak79HkhaOcxdyOHuuvGNtWGCuvIUb/view)
+* Bug #3. Check [the screenshot of the bug report in Redmine](https://drive.google.com/file/d/1ZzuEc2q9U3NHE9qVPiA5oBIwb_Bgvz1c/view)
+
+
+
+
+
+
+
+
+
+
+
