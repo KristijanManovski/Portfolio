@@ -22,12 +22,16 @@ Join me as I showcase my expertise, insights, and contributions to the world of 
 
 - Bachelor of Laws (LL.B.), Faculty of Law
   Iustinianus Primus, SS. Cyril and Methodius University of Skopje, Macedonia
+  
   Started: 2019
+  
   Graduated: 2022
 
 - Software Testing Certification
   SEDC Academy, Skopje, Macedonia
+  
   Started: 2023
+  
   Completed: 2024
 
 ## CV
