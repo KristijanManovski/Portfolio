@@ -101,16 +101,18 @@ __Mind maps & Diagrams__
 
 ### Bug reports and work in Redmine
 
-- Several bugs i found on [the training webpage TEST PREFIX ](https://qatest-dev.indvp.com/)and reported:
+ -Several bugs i found on [the training webpage TEST PREFIX ](https://qatest-dev.indvp.com/)and reported:
  * Bug #1. Check [the screenshot of the bug report in Redmine](https://drive.google.com/file/d/193mJM84uQee-QqmsW6xecSJmg5ObRYIc/view)
  * Bug #2. Check [the screenshot of the bug report in Redmine](https://drive.google.com/file/d/1DW-Ak79HkhaOcxdyOHuuvGNtWGCuvIUb/view)
  * Bug #3. Check [the screenshot of the bug report in Redmine](https://drive.google.com/file/d/1ZzuEc2q9U3NHE9qVPiA5oBIwb_Bgvz1c/view)
 
 ### Mindmaps 
+
 * Mindmap for team-building event Check [the mindmap](https://drive.google.com/drive/u/6/my-drive).
 * Mindmap for Twitter/X functionalities Check [the mindmap](https://drive.google.com/drive/u/6/home). 
 
 ### Test Charter
+
 * Test Charter i did for Facebook for my homework during my Academy at SEDC for software testing
 * You can check my test charter for Facebook as [a PDF from my Google Drive](https://drive.google.com/file/d/1BsDQEFa0iL_FA7LokjWumamsE4EJwa_x/view)
 
