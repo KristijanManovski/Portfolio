@@ -108,8 +108,8 @@ __Mind maps & Diagrams__
 
 ### Mindmaps 
 
-* Mindmap for team-building event Check [the mindmap](https://drive.google.com/drive/u/6/my-drive).
-* Mindmap for Twitter/X functionalities Check [the mindmap](https://drive.google.com/drive/u/6/home). 
+* Mindmap for team-building event Check [the mindmap](https://drive.google.com/file/d/1Qk4G0GGS4Wn7SJXsBYKV1sJ4qkF0nUnd/view).
+* Mindmap for Twitter/X functionalities Check [the mindmap](https://drive.google.com/file/d/1lnWwZrfJWN9heNZD26tOPZMrZvoEPGGW/view)
 
 ### Test Charter
 
