@@ -32,19 +32,19 @@ You can check my linkedin [linkedin]: https://www.linkedin.com/in/kristijan-mano
 •	Kanban
 •	Microsoft Office
 
-__Manual testing__
+__Manual Testing__
 
 - Can perform manual functional and usability testing of web applications
 - Gained hands-on experience by testing applications created for educational purposes
 - Gained a lot of experience by testing websites during my 8 months education at SEDC Academy for software testing
 
-__Test analysis & design__
+__Test Analysis & Design__
 
 •	Familiar with functional decomposition of products, creating state transition diagrams, writing use cases
 
 •	Can apply equivalence partitioning, boundary value analysis and methods of pairwise testing to generate test input data
 
-__API testing__
+__API Testing__
 
 •	Know the difference between SOAP and REST APIs
 
@@ -52,17 +52,17 @@ __API testing__
 
 •	Know how to manipulate requests and create test cases using the SoapUI tool
 
-__Exploratory testing__
+__Exploratory Testing__
 
 •	Capable of creating cheat-lists for testing web applications
 
-__Test documentation__
+__Test Documentation__
 
 •	Can create test cases and checklists and know how and in which situations to use them effectively
 
 •	Able to prepare comprehensive bug reports and provide detailed session reports
 
-__SQL databases__
+__SQL Databases__
 
 •	Can write complex requests using subqueries 
 
