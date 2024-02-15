@@ -6,8 +6,8 @@
 - [Skills](#skills)
 - [Tools](#tools)
 - [Examples of my work](#examples-of-my-work)
-  * [Bug reports in Redmine](#bug-reports-in-Redmine)
-  * [Mindmaps](#mind-maps)
+  * [Bug reports in Redmine](#Bug-Reports-In-Redmine)
+  * [Mindmaps](#Mind-Maps)
   * [Test Charter](#Test-Charter)
 
 ## About me
