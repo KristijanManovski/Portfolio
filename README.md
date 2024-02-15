@@ -7,6 +7,7 @@
 - [Tools](#tools)
 - [Examples of my work](#examples-of-my-work)
   * [Bug reports in Redmine](#bug-reports-in-Redmine)
+  * [Mindmaps](#mindmaps)
 
 ## About me
 
@@ -103,6 +104,10 @@ __Mind maps & Diagrams__
 * Bug #1. Check [the screenshot of the bug report in Redmine](https://drive.google.com/file/d/193mJM84uQee-QqmsW6xecSJmg5ObRYIc/view)
 * Bug #2. Check [the screenshot of the bug report in Redmine](https://drive.google.com/file/d/1DW-Ak79HkhaOcxdyOHuuvGNtWGCuvIUb/view)
 * Bug #3. Check [the screenshot of the bug report in Redmine](https://drive.google.com/file/d/1ZzuEc2q9U3NHE9qVPiA5oBIwb_Bgvz1c/view)
+
+### Mindmaps 
+* Mindmap for team-building event Check [the mindmap](https://drive.google.com/drive/u/6/my-drive).
+* Mindmap for Twitter/X functionalities Check [the mindmap](https://drive.google.com/drive/u/6/home). 
 
 
 
