@@ -5,6 +5,8 @@
 - [LinkedIn](#linkedin)
 - [Skills](#skills)
 - [Tools](#tools)
+- [Examples of my work](#examples-of-my-work)
+  * [Bug reports in Redmine](#bug-reports-in-Redmine)
 
 ## About me
 
