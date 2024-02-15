@@ -25,7 +25,7 @@ Join me as I showcase my expertise, insights, and contributions to the world of 
   Completed: 2024
 
 ## CV
-You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/17dQfbcnKhqFO8CxxMF-SfoVGySWkG3Ks/view).
+You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/1S6VQqQXpBcgaOjvHn_BQxLirMLkfYYBJ/view).
 
 ## LinkedIn
 You can check my linkedin profile [linkedin]: https://www.linkedin.com/in/kristijan-manovski-734191297
