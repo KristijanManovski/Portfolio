@@ -99,7 +99,7 @@ __Mind maps & Diagrams__
 
 ## Examples of my work
 
-### Bug reports and work in Redmine
+### Bug reports in Redmine
 
  -Several bugs i found on [the training webpage TEST PREFIX ](https://qatest-dev.indvp.com/)and reported:
  * Bug #1. Check [the screenshot of the bug report in Redmine](https://drive.google.com/file/d/193mJM84uQee-QqmsW6xecSJmg5ObRYIc/view)
@@ -108,8 +108,8 @@ __Mind maps & Diagrams__
 
 ### Mindmaps 
 
-* Mindmap for team-building event Check [the mindmap](https://drive.google.com/file/d/1Qk4G0GGS4Wn7SJXsBYKV1sJ4qkF0nUnd/view).
-* Mindmap for Twitter/X functionalities Check [the mindmap](https://drive.google.com/file/d/1lnWwZrfJWN9heNZD26tOPZMrZvoEPGGW/view)
+* Mindmap for team-building event. Check [the mindmap](https://drive.google.com/file/d/1Qk4G0GGS4Wn7SJXsBYKV1sJ4qkF0nUnd/view)
+* Mindmap for Twitter/X functionalities. Check [the mindmap](https://drive.google.com/file/d/1lnWwZrfJWN9heNZD26tOPZMrZvoEPGGW/view)
 
 ### Test Charter
 
