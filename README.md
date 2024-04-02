@@ -108,6 +108,10 @@ __Test Documentation__
 
 __SQL Databases__
 
+• Experienced in SQL (Structured Query Language) for database management and data manipulation tasks.
+
+• Familiar with advanced SQL concepts such as joins, subqueries, and stored procedures for complex data operations.
+
 •	Can write complex requests using subqueries 
 
 •	Familiar with the use of aliases and wildcards
@@ -121,6 +125,10 @@ __Jira__
 • Know how to create bug reports
 
 • Able to create projects and track their progress
+
+• Proficient in utilizing JIRA for project management and issue tracking, with expertise in creating detailed project plans, managing tasks, and tracking progress. 
+
+• Skilled in generating comprehensive bug reports and managing software defects throughout their lifecycle.
 
 __Postman__
 
