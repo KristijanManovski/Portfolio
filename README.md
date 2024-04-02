@@ -1,7 +1,7 @@
 # Portfolio
 - [About me](#about-me)
 - [Education](#education)
-- [Work Experience](#workexperience)
+- [Work Experience](#work-experience)
 - [CV](#cv)
 - [LinkedIn](#linkedin)
 - [Skills](#skills)
@@ -33,23 +33,22 @@ Graduated: 2022
 
 ## Work Experience
 
-QA Engineer, Nymph
-March 2024 - Present
+### QA Engineer, Nymph
+*March 2024 - Present*
+- Conduct thorough testing on the Nymph mobile application, identifying and documenting bugs to enhance functionality, usability, and reliability.
+- Collaborate closely with developers to prioritize and resolve issues, contributing to an improved user experience and adherence to industry standards.
 
-Conduct thorough testing on the Nymph mobile application, identifying and documenting bugs to enhance functionality, usability, and reliability.
-Collaborate closely with developers to prioritize and resolve issues, contributing to an improved user experience and adherence to industry standards.
-QA Testing Project, SEDC Academy
-2023 - 2024
+### QA Testing Project, SEDC Academy
+*2023 - 2024*
+- Developed tailored test plans and strategies for e-commerce solutions.
+- Conducted smoke, sanity, and regression testing to ensure platform stability.
+- Identified and documented defects using industry-standard tools, enhancing quality assurance processes for high-quality e-commerce solutions.
 
-Developed tailored test plans and strategies for e-commerce solutions.
-Conducted smoke, sanity, and regression testing to ensure platform stability.
-Identified and documented defects using industry-standard tools, enhancing quality assurance processes for high-quality e-commerce solutions.
-QA Tester, uTest
-July 2022 - Present
-
-Develop and execute test plans, test cases, and test scripts based on project requirements and specifications.
-Utilize automated testing tools such as Selenium and TestNG to streamline testing processes and increase efficiency.
-Conduct API testing and automated API workflows using Postman, ensuring robustness and reliability of backend systems.
+### QA Tester, uTest
+*July 2022 - Present*
+- Develop and execute test plans, test cases, and test scripts based on project requirements and specifications.
+- Utilize automated testing tools such as Selenium and TestNG to streamline testing processes and increase efficiency.
+- Conduct API testing and automated API workflows using Postman, ensuring robustness and reliability of backend systems.
 
 ## CV
 You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/1_DNBznA-zItJ_Ryg-Fwo9F04s2LCw60-/view?usp=drive_link).
