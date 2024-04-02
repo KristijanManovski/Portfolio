@@ -6,6 +6,7 @@
 - [LinkedIn](#linkedin)
 - [Skills](#skills)
 - [Tools](#tools)
+- [Testing Methodologies](#Testing-methodologies)
 - [Examples of my work](#examples-of-my-work)
   * [Bug reports in Redmine](#Bug-Reports-In-Redmine)
   * [Mindmaps](#MindMaps)
@@ -160,6 +161,28 @@ __Mind maps & Diagrams__
 • Experienced in creating and utilizing mind maps as powerful visual tools for brainstorming, organizing ideas, and enhancing productivity.
 
 • Skilled in utilizing mind maps for project planning, problem-solving, and creative thinking, facilitating effective communication and decision-making processes.
+
+## Testing Methodologies
+
+### Black-box Testing:
+- Proficient in black-box testing techniques, focusing on validating the functionality of software without examining its internal structure or code.
+- Skilled in designing test cases based on external specifications, user requirements, and system behavior to ensure comprehensive test coverage.
+- Utilize black-box testing for functional testing, user acceptance testing (UAT), and regression testing to identify defects and verify system functionality from an end-user perspective.
+
+### White-box Testing:
+- Experienced in white-box testing methods, involving the examination of internal code structure and logic to validate program flows and data paths.
+- Proficient in creating test cases based on code analysis, control flow, and data flow to verify code correctness and identify potential vulnerabilities.
+- Employ white-box testing for unit testing, integration testing, and code coverage analysis to ensure code quality, reliability, and maintainability.
+
+### Exploratory Testing:
+- Skilled in exploratory testing techniques, emphasizing simultaneous learning, test design, and test execution to uncover defects and assess software behavior dynamically.
+- Proficient in exploratory testing sessions, where tests are executed without predefined test cases, allowing for flexibility, creativity, and adaptability in testing approaches.
+- Utilize exploratory testing to complement structured testing methodologies, identify edge cases, and uncover unforeseen issues, enhancing overall test coverage and effectiveness.
+
+### Agile Testing:
+- Well-versed in agile testing principles and practices, emphasizing collaboration, continuous feedback, and iterative development cycles.
+- Experienced in working within agile development environments such as Scrum or Kanban, participating in sprint planning, daily stand-ups, and sprint reviews to align testing activities with project goals.
+- Adapt testing strategies and techniques to accommodate changing requirements, prioritize test cases based on user stories, and ensure timely delivery of high-quality software increments.
 
 ## Examples of my work
 
