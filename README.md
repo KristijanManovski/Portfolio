@@ -1,5 +1,6 @@
 # Portfolio
 - [About me](#about-me)
+- [Contact Information](#contact-information)
 - [Education](#education)
 - [Work Experience](#work-experience)
 - [CV](#cv)
