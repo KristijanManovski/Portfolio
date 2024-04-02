@@ -58,21 +58,22 @@ You can check my linkedin profile [linkedin]: https://www.linkedin.com/in/kristi
 
 ## Skills
 
-•	SQL
-• Postman
-• IntelliJ IDEA
-• Selenium
-•	Linux
-•	Test Design
-•	Smoke Testing
-•	Regression Testing
-•	Sanity Testing 
-•	Bug Reports
-•	Scrum
-•	Kanban
-•	Microsoft Office
-• JIRA
-• Kiwi
+- SQL
+- Postman
+- IntelliJ IDEA
+- Selenium
+- Linux
+- Test Design
+- Smoke Testing
+- Regression Testing
+- Sanity Testing 
+- Bug Reports
+- Scrum
+- Kanban
+- Microsoft Office
+- JIRA
+- Kiwi
+
 
 __Manual Testing__
 
