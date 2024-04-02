@@ -104,16 +104,6 @@ __API Testing__
 
 •	Know how to manipulate requests and create test cases using the SoapUI tool
 
-__Exploratory Testing__
-
-•	Capable of creating cheat-lists for testing web applications
-
-• Skilled in exploratory testing techniques, I employ a dynamic and flexible approach to software testing to uncover defects and assess system behavior in real-time. 
-
-• With a focus on rapid learning and adaptation, I explore the application's functionalities, user interfaces, and workflows to identify potential issues and validate system behavior under varying conditions.
-
-• Experienced in leveraging exploratory testing alongside structured testing methodologies to ensure comprehensive test coverage and deliver high-quality software products.
-
 __Test Documentation__
 
 •	Can create test cases and checklists and know how and in which situations to use them effectively
