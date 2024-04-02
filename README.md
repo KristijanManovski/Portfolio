@@ -120,6 +120,12 @@ __Jira__
 
 • Able to create projects and track their progress
 
+__Postman__
+
+• Skilled in utilizing Jira for project management and issue tracking, I proficiently create bug reports to identify and document software defects.
+
+• By utilizing Postman's robust features such as assertions, scripts, and test runners, I verify response data, assess performance, and validate integrations, contributing to the overall quality and reliability of software systems.
+
 __Mind maps & Diagrams__
 
 • Know how to design simple mind maps
