@@ -84,6 +84,12 @@ __Manual Testing__
 
 __Test Analysis & Design__
 
+• Experienced in test analysis and design, I possess the skills to systematically analyze software requirements, identify test objectives, and develop comprehensive test plans and strategies.
+
+• Proficient in utilizing techniques such as equivalence partitioning, boundary value analysis, and pairwise testing to generate effective test input data and ensure thorough test coverage.
+
+• Skilled in crafting detailed test cases, I design test scenarios that address both functional and non-functional aspects of software systems, facilitating rigorous testing and validation processes to deliver high-quality software products.
+
 •	Familiar with functional decomposition of products, creating state transition diagrams, writing use cases
 
 •	Can apply equivalence partitioning, boundary value analysis and methods of pairwise testing to generate test input data
@@ -99,6 +105,12 @@ __API Testing__
 __Exploratory Testing__
 
 •	Capable of creating cheat-lists for testing web applications
+
+• Skilled in exploratory testing techniques, I employ a dynamic and flexible approach to software testing to uncover defects and assess system behavior in real-time. 
+
+• With a focus on rapid learning and adaptation, I explore the application's functionalities, user interfaces, and workflows to identify potential issues and validate system behavior under varying conditions.
+
+• Experienced in leveraging exploratory testing alongside structured testing methodologies to ensure comprehensive test coverage and deliver high-quality software products.
 
 __Test Documentation__
 
@@ -132,9 +144,13 @@ __Jira__
 
 __Postman__
 
-• Skilled in utilizing Jira for project management and issue tracking, I proficiently create bug reports to identify and document software defects.
+• Skilled in designing and executing test suites, I meticulously validate API endpoints, verify data integrity, and assess performance metrics to ensure optimal system functionality. 
 
-• By utilizing Postman's robust features such as assertions, scripts, and test runners, I verify response data, assess performance, and validate integrations, contributing to the overall quality and reliability of software systems.
+• Skilled in utilizing Postman's features such as assertions, scripts, and test runners to verify functionality, assess performance, and validate integrations, contributing to robust and reliable software systems.
+
+• With proficiency in creating and managing collections, environments, and variables, I orchestrate complex testing scenarios and automate repetitive tasks, enhancing testing efficiency and productivity.
+
+• I am proficient in utilizing Postman's collaboration features to facilitate teamwork, share test cases, and synchronize testing efforts across distributed teams, contributing to seamless software development and delivery processes.
 
 __Mind maps & Diagrams__
 
