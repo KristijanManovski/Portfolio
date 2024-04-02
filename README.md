@@ -60,6 +60,8 @@ You can check my linkedin profile [linkedin]: https://www.linkedin.com/in/kristi
 
 •	SQL
 • Postman
+• IntelliJ IDEA
+• Selenium
 •	Linux
 •	Test Design
 •	Smoke Testing
@@ -129,6 +131,10 @@ __Postman__
 __Mind maps & Diagrams__
 
 • Know how to design simple mind maps
+
+• Experienced in creating and utilizing mind maps as powerful visual tools for brainstorming, organizing ideas, and enhancing productivity.
+
+• Skilled in utilizing mind maps for project planning, problem-solving, and creative thinking, facilitating effective communication and decision-making processes.
 
 ## Examples of my work
 
