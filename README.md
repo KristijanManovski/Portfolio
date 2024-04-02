@@ -20,6 +20,12 @@ My experience spans across various testing methodologies and tools, allowing me 
 Through meticulous testing and comprehensive analysis, I strive to contribute to the creation of reliable and seamless software solutions.
 Join me as I showcase my expertise, insights, and contributions to the world of software testing.
 
+## Contact Information
+
+- **Email:** [kristijan8822@gmail.com](mailto:kristijan8822@gmail.com)
+- **Phone:** [+389 (0)78 403 595](tel:+38978403595)
+
+
 ## Education
 
 Software Testing Certification
