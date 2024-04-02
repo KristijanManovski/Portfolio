@@ -43,6 +43,7 @@ You can check my linkedin profile [linkedin]: https://www.linkedin.com/in/kristi
 ## Skills
 
 •	SQL
+• Postman
 •	Linux
 •	Test Design
 •	Smoke Testing
@@ -52,12 +53,16 @@ You can check my linkedin profile [linkedin]: https://www.linkedin.com/in/kristi
 •	Scrum
 •	Kanban
 •	Microsoft Office
+• JIRA
+• Kiwi
 
 __Manual Testing__
 
-- Can perform manual functional and usability testing of web applications
-- Gained hands-on experience by testing applications created for educational purposes
-- Gained a lot of experience by testing websites during my 8 months education at SEDC Academy for software testing
+- Can perform manual functional and usability testing of web applications.
+- Gained hands-on experience by testing applications created for educational purposes.
+- Gained a lot of experience by testing websites during my 8 months education at SEDC Academy for software testing.
+- Skilled in exploratory testing techniques to uncover unforeseen issues and enhance overall product quality.
+- Capable of crafting detailed test cases, executing test scenarios, and reporting issues effectively to improve software quality.
 
 __Test Analysis & Design__
 
