@@ -200,6 +200,27 @@ __Mind maps & Diagrams__
 * Test Charter i did for Facebook for my homework during my Academy at SEDC for software testing
 * You can check my test charter for Facebook as [a PDF from my Google Drive](https://drive.google.com/file/d/1BsDQEFa0iL_FA7LokjWumamsE4EJwa_x/view)
 
+  # Test Case: Verify Product Details Page for "Sauce Labs Fleece Jacket"
+
+## Preconditions:
+- Ensure that the user has access to the internet.
+- Access the website [SauceDemo](https://www.saucedemo.com/inventory.html).
+
+## Test Steps:
+1. Open Google Chrome.
+2. Navigate to the website [SauceDemo Inventory Page](https://www.saucedemo.com/inventory.html).
+3. Verify that the page is loaded successfully.
+4. Click on the Sauce Labs Fleece Jacket.
+5. Wait for the page to load, ensuring all relevant product details are visible.
+6. Verify that the page for the selected item ("Sauce Labs Fleece Jacket") opens successfully on the user’s screen by confirming the presence of product details, images, and pricing.
+
+## Test Data:
+- Product name: Sauce Labs Fleece Jacket
+
+## Expected Results:
+Upon clicking on the "Sauce Labs Fleece Jacket" product, the page for the selected item should load successfully, displaying all relevant information such as product details, images, and pricing.
+
+
 
 
 
