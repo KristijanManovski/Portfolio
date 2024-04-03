@@ -240,6 +240,34 @@ Upon clicking on the "Sauce Labs Fleece Jacket" product, the page for the select
 ## Expected Results:
 Upon selecting the "Sauce Labs Onesie" product, the page for the selected item should load successfully, displaying all relevant information such as product details, images, and pricing.
 
+# Test Case: Verify Checkout Process on SauceDemo Website
+
+## Preconditions:
+- Ensure that the user has access to the internet.
+
+## Test Steps:
+1. Open Google Chrome.
+2. Navigate to the website [SauceDemo Inventory Page](https://www.saucedemo.com/inventory.html).
+3. Click on the "Cart" icon.
+4. Select "Checkout" from the cart page.
+5. Locate the "First Name" input field.
+6. Enter "Kristijan" into the "First Name" field.
+7. Verify that the entered first name is correctly displayed.
+8. Locate the "Last Name" input field.
+9. Enter "Manovski" into the "Last Name" field.
+10. Verify that the entered last name is correctly displayed.
+11. Locate the "Postal Code" input field.
+12. Enter "1200" into the "Postal Code" field.
+13. Click Continue.
+
+## Test Data:
+- First Name: Kristijan
+- Last Name: Manovski
+- Postal Code: 1200
+
+## Expected Results:
+User should be able to finish the checkout after filling all required details.
+
 
 
 
