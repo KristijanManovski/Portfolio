@@ -13,6 +13,8 @@
   * [Mindmaps](#MindMaps)
   * [Test Charter](#Test-Charter)
   * [Test Cases](#Test-Cases)
+  * [Bug Reports](#Bug-Reports)
+
 
 ## About me
 
@@ -267,6 +269,179 @@ Upon selecting the "Sauce Labs Onesie" product, the page for the selected item s
 
 ## Expected Results:
 User should be able to finish the checkout after filling all required details.
+
+### Bug reports
+
+# Bug Report: Product Sorting by Name (Z to A) Not Working Correctly
+
+## Summary:
+Product sorting by name (Z to A) does not display products in the expected order on the website.
+
+## Priority:
+Medium
+
+## Description:
+Upon selecting the "Name (Z to A)" sorting option on the website, the products continue to be displayed in the default ascending order (A to Z).
+
+## Steps to Reproduce:
+1. Go to site [SauceDemo Inventory Page](https://www.saucedemo.com/inventory.html).
+2. Locate the sorting bar.
+3. Click on the "Name (Z to A)" sorting option.
+
+## Expected Results:
+Upon selecting the "Name (Z to A)" sorting option, the products should be listed in descending alphabetical order based on their names, from Z to A.
+
+## Actual Results:
+Despite selecting the "Name (Z to A)" sorting option, the products continue to be listed in the default ascending order (A to Z).
+
+## Browser:
+Google Chrome v120.0.6099.71
+
+## Build:
+6.4.5
+
+## Environment:
+[SauceDemo Inventory Page](https://www.saucedemo.com/inventory.html)
+
+## Platform:
+OS: Windows 10
+
+# Bug Report: Site Doesn't Sort Products from Price (Low to High) When Selected
+
+## Summary:
+Site doesn't show products from Price (Low to High) when selected.
+
+## Priority:
+Medium
+
+## Description:
+When attempting to sort products from "Price (Low to High)" on the website, the sorting functionality does not behave as expected.
+
+## Steps to Reproduce:
+1. Go to site [SauceDemo Inventory Page](https://www.saucedemo.com/inventory.html).
+2. Locate the sorting bar.
+3. Click on the "Price (Low to High)" sorting option.
+
+## Expected Results:
+Products should be arranged in ascending order based on their prices, from lowest to highest.
+
+## Actual Results:
+Despite selecting the "Price (Low to High)" sorting option, the products are displayed in the standard alphabetical order by name.
+
+## Browser:
+Google Chrome v120.0.6099.71
+
+## Build:
+6.4.5
+
+## Environment:
+[SauceDemo Inventory Page](https://www.saucedemo.com/inventory.html)
+
+## Platform:
+OS: Windows 10
+
+# Bug Report: Site Doesn't Sort Products from Price (High to Low) When Selected
+
+## Summary:
+Site doesn't show products from Price (High to Low) when selected.
+
+## Priority:
+Medium
+
+## Description:
+Upon attempting to sort products by "Price (High to Low)" on the website, the expected sorting functionality does not occur. Instead, the products remain displayed in their default alphabetical order by name.
+
+## Steps to Reproduce:
+1. Go to site [SauceDemo Inventory Page](https://www.saucedemo.com/inventory.html).
+2. Locate the sorting bar.
+3. Click on the "Price (High to Low)" sorting option.
+
+## Expected Results:
+Products should be arranged in descending order based on their prices, from highest to lowest.
+
+## Actual Results:
+Despite selecting the "Price (High to Low)" sorting option, the products continue to be listed alphabetically by name as per the default sorting.
+
+## Browser:
+Google Chrome v120.0.6099.71
+
+## Build:
+6.4.5
+
+## Environment:
+[SauceDemo Inventory Page](https://www.saucedemo.com/inventory.html)
+
+## Platform:
+OS: Windows 10
+
+# Bug Report: Site Crashes When Selecting "About" from Category List
+
+## Summary:
+The site crashes when selecting "About" from the Category list, leading to a 404 error page.
+
+## Priority:
+Low
+
+## Description:
+Upon clicking "About" in the Category list, the site crashes and displays a 404 error page.
+
+## Steps to Reproduce:
+1. Go to site [SauceDemo Inventory Page](https://www.saucedemo.com/inventory.html).
+2. Locate the Category bar.
+3. Click "About".
+
+## Expected Results:
+The About page should open successfully.
+
+## Actual Results:
+The site crashes and shows a 404 Error Page.
+
+## Browser:
+Google Chrome v120.0.6099.71
+
+## Build:
+6.4.5
+
+## Environment:
+[SauceDemo Inventory Page](https://www.saucedemo.com/inventory.html)
+
+## Platform:
+OS: Windows 10
+
+# Bug Report: Site Fails to Reset When Clicking "Reset App State"
+
+## Summary:
+The site fails to reset when clicking "Reset App State", maintaining the current Category.
+
+## Priority:
+Medium
+
+## Description:
+Clicking "Reset App State" does not reset the site, keeping it on the same Category.
+
+## Steps to Reproduce:
+1. Go to site [SauceDemo Inventory Page](https://www.saucedemo.com/inventory.html).
+2. Locate the Category bar.
+3. Click "Reset App State".
+
+## Expected Results:
+Application state should reset.
+
+## Actual Results:
+The site fails to reset the application.
+
+## Browser:
+Google Chrome v120.0.6099.71
+
+## Build:
+6.4.5
+
+## Environment:
+[SauceDemo Inventory Page](https://www.saucedemo.com/inventory.html)
+
+## Platform:
+OS: Windows 10
+
 
 
 
