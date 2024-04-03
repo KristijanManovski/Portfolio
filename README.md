@@ -12,6 +12,7 @@
   * [Bug reports in Redmine](#Bug-Reports-In-Redmine)
   * [Mindmaps](#MindMaps)
   * [Test Charter](#Test-Charter)
+  * [Test Cases](#Test-Cases)
 
 ## About me
 
@@ -199,6 +200,8 @@ __Mind maps & Diagrams__
 
 * Test Charter i did for Facebook for my homework during my Academy at SEDC for software testing
 * You can check my test charter for Facebook as [a PDF from my Google Drive](https://drive.google.com/file/d/1BsDQEFa0iL_FA7LokjWumamsE4EJwa_x/view)
+
+### Test Cases
 
   # Test Case: Verify Product Details Page for "Sauce Labs Fleece Jacket"
 
