@@ -223,6 +223,24 @@ __Mind maps & Diagrams__
 ## Expected Results:
 Upon clicking on the "Sauce Labs Fleece Jacket" product, the page for the selected item should load successfully, displaying all relevant information such as product details, images, and pricing.
 
+# Test Case: Verify Product Details Page for "Sauce Labs Onesie"
+
+## Preconditions:
+- Ensure that the user has access to the internet.
+
+## Test Steps:
+1. Open Google Chrome.
+2. Navigate to the website [SauceDemo Inventory Page](https://www.saucedemo.com/inventory.html).
+3. Verify that the page is loaded successfully.
+4. Select Sauce Labs Onesie.
+
+## Test Data:
+- Product name: Sauce Labs Onesie
+
+## Expected Results:
+Upon selecting the "Sauce Labs Onesie" product, the page for the selected item should load successfully, displaying all relevant information such as product details, images, and pricing.
+
+
 
 
 
