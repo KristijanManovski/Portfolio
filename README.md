@@ -6,6 +6,7 @@
 - [CV](#cv)
 - [LinkedIn](#linkedin)
 - [Skills](#skills)
+- [SoftSkills](#softskills)
 - [Tools](#tools)
 - [Testing Methodologies](#Testing-methodologies)
 - [Examples of my work](#examples-of-my-work)
@@ -82,6 +83,23 @@ You can check my linkedin profile [linkedin]: https://www.linkedin.com/in/kristi
 - JIRA
 - Kiwi
 
+  ## Soft Skills
+
+- **Communication:** Clear and concise communication skills demonstrated through effective documentation of test cases, bug reports, and testing procedures. Proven ability to communicate findings and recommendations to stakeholders in both technical and non-technical terms.
+
+- **Teamwork:** Collaborative approach showcased by actively participating in team meetings, contributing insights during discussions, and fostering a supportive team environment. Demonstrated ability to work closely with developers and other team members to achieve common goals.
+
+- **Problem-solving:** Strong problem-solving skills highlighted by the ability to analyze complex issues, identify root causes, and propose effective solutions. Examples of creatively resolving testing challenges and overcoming obstacles during project execution.
+
+- **Attention to detail:** Meticulous attention to detail demonstrated through thorough testing methodologies and meticulous bug reporting. Examples of identifying and documenting even the smallest issues to ensure comprehensive software quality assurance.
+
+- **Adaptability:** Flexibility and adaptability showcased by successfully adapting to changing project requirements, timelines, and priorities. Evidence of adjusting testing strategies and priorities in response to evolving project needs and stakeholder feedback.
+
+- **Time management:** Effective time management skills exhibited through the organization of testing tasks, prioritization of activities, and meeting project deadlines. Examples of efficiently allocating time to different testing activities while maintaining high standards of quality.
+
+- **Critical thinking:** Demonstrated ability to think critically and analytically when evaluating software requirements, assessing risks, and designing test strategies. Examples of making informed decisions based on logical reasoning and sound judgment.
+
+- **Empathy:** Understanding of end-user perspectives and needs reflected in the design of test cases and scenarios. Examples of considering user experience and usability factors to ensure that software products meet user expectations and requirements.
 
 __Manual Testing__
 
