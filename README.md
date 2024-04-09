@@ -6,7 +6,7 @@
 - [CV](#cv)
 - [LinkedIn](#linkedin)
 - [Skills](#skills)
-- [SoftSkills](#softskills)
+- [Soft Skills](#soft-skills)
 - [Tools](#tools)
 - [Testing Methodologies](#Testing-methodologies)
 - [Examples of my work](#examples-of-my-work)
@@ -83,7 +83,7 @@ You can check my linkedin profile [linkedin]: https://www.linkedin.com/in/kristi
 - JIRA
 - Kiwi
 
-  ## Soft Skills
+## Soft Skills
 
 - **Communication:** Clear and concise communication skills demonstrated through effective documentation of test cases, bug reports, and testing procedures. Proven ability to communicate findings and recommendations to stakeholders in both technical and non-technical terms.
 
