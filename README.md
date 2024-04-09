@@ -141,6 +141,16 @@ __Jira__
 
 • Skilled in generating comprehensive bug reports and managing software defects throughout their lifecycle.
 
+__SQL__
+
+• Proficient in designing and executing comprehensive SQL test cases, I meticulously validate database integrity, verify data consistency, and assess query performance to ensure the reliability and accuracy of data-driven applications.
+
+• Skilled in utilizing SQL queries to conduct data validation and verification, I identify discrepancies, troubleshoot data anomalies, and collaborate with development teams to resolve issues promptly, contributing to the delivery of high-quality software products.
+
+• With expertise in creating and managing test data sets, I orchestrate complex testing scenarios to simulate real-world usage conditions, uncover potential defects, and ensure robustness across different database configurations, enhancing overall software quality.
+
+• Experienced in leveraging SQL to automate database testing processes, I develop scripts and queries to streamline regression testing, accelerate test execution, and improve testing efficiency, thereby optimizing QA workflows and reducing time-to-market for software releases.
+
 __Postman__
 
 • Skilled in designing and executing test suites, I meticulously validate API endpoints, verify data integrity, and assess performance metrics to ensure optimal system functionality. 
