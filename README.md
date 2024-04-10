@@ -222,6 +222,7 @@ __Mind maps & Diagrams__
 ### Bug reports in Redmine
 Check [Google Drive folder](https://drive.google.com/drive/u/1/folders/1Bew6SuZzHfT4LYu-LsCYKRqUSpuPdwdp)
 
+
 ### Mindmaps 
 
 * Mindmap for team-building event. Check [the mindmap](https://drive.google.com/file/d/1Qk4G0GGS4Wn7SJXsBYKV1sJ4qkF0nUnd/view)
