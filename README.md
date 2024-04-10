@@ -220,8 +220,7 @@ __Mind maps & Diagrams__
  * Bug #3. Check [the screenshot of the bug report in Redmine](https://drive.google.com/file/d/1ZzuEc2q9U3NHE9qVPiA5oBIwb_Bgvz1c/view)
 
 ## Bug reports in Redmine
-Check [Google Drive folder](https://drive.google.com/drive/u/1/folders/1Bew6SuZzHfT4LYu-LsCYKRqUSpuPdwdp)
-
+[Google Drive folder](https://drive.google.com/drive/u/1/folders/1Bew6SuZzHfT4LYu-LsCYKRqUSpuPdwdp)
 
 ### Mindmaps 
 
