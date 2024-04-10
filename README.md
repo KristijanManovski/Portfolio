@@ -11,7 +11,7 @@
 - [Testing Methodologies](#Testing-methodologies)
 - [Examples of my work](#examples-of-my-work)
   * [Bug reports in Redmine](#Bug-Reports-In-Redmine)
-  * [Bug reports in Jira](#bug-reports-in-jira)
+  * [BugReports](#BugReports)
   * [Mindmaps](#MindMaps)
   * [Test Charter](#Test-Charter)
   
