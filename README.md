@@ -10,6 +10,7 @@
 - [Tools](#tools)
 - [Testing Methodologies](#Testing-methodologies)
 - [Examples of my work](#examples-of-my-work)
+  * [Test Cases in Jira](#Test-Cases-In-Jira)
   * [Bug reports in Redmine](#Bug-Reports-In-Redmine)
   * [Bug reports in Jira](#Bug-Reports-In-Jira)
   * [Mindmaps](#MindMaps)
@@ -211,6 +212,9 @@ __Mind maps & Diagrams__
 - Adapt testing strategies and techniques to accommodate changing requirements, prioritize test cases based on user stories, and ensure timely delivery of high-quality software increments.
 
 ## Examples of my work
+
+## Test Cases in Jira
+[Test Cases in Jira Google Drive folder](https://drive.google.com/drive/u/1/folders/14rXB9RmtQkZBn3haMDm0zN-A7u5xxw15)
 
 ### Bug reports in Redmine
 
