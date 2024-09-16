@@ -2,6 +2,7 @@
 - [About me](#about-me)
 - [Contact Information](#contact-information)
 - [Education](#education)
+- [Certificate ](#certificate)
 - [Work Experience](#work-experience)
 - [CV](#cv)
 - [LinkedIn](#linkedin)
@@ -41,6 +42,9 @@ Bachelor of Laws (LL.B.), Faculty of Law
 Iustinianus Primus, SS. Cyril and Methodius University of Skopje, Macedonia
 Started: 2019
 Graduated: 2022
+
+## Certificate 
+You can see my certificate as [a PDF from my Google Drive](https://drive.google.com/drive/u/1/folders/1Hb4NsbGYKHZFAHjDduA9yVWrfSnPc1ST).
 
 ## Work Experience
 
