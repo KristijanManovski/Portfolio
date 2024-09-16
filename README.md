@@ -44,7 +44,7 @@ Started: 2019
 Graduated: 2022
 
 ## Certificate 
-You can see my certificate as [a PDF from my Google Drive](https://drive.google.com/drive/u/1/folders/1Hb4NsbGYKHZFAHjDduA9yVWrfSnPc1ST).
+You can see my certificate as [a PDF from my Google Drive](https://drive.google.com/file/d/1qiihwgKm7jfKbos8qDT1Iw-Eq8ZBxFBZ/view).
 
 ## Work Experience
 
