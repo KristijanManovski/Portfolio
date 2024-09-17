@@ -2,7 +2,7 @@
 - [About me](#about-me)
 - [Contact Information](#contact-information)
 - [Education](#education)
-- [Certificate ](#certificate)
+- [Certificates ](#certificates)
 - [Work Experience](#work-experience)
 - [CV](#cv)
 - [LinkedIn](#linkedin)
@@ -43,8 +43,9 @@ Iustinianus Primus, SS. Cyril and Methodius University of Skopje, Macedonia
 Started: 2019
 Graduated: 2022
 
-## Certificate 
-You can see my certificate as [a PDF from my Google Drive](https://drive.google.com/file/d/1qiihwgKm7jfKbos8qDT1Iw-Eq8ZBxFBZ/view).
+## Certificates
+You can see my certificate from SEDC Academy for Software Testing as [a PDF from my Google Drive](https://drive.google.com/file/d/1qiihwgKm7jfKbos8qDT1Iw-Eq8ZBxFBZ/view).
+You can see my certificate from Udemy for Software Testing as [a PDF from my Google Drive](https://drive.google.com/file/d/1YCAoKwOnpPqEccIDndVx9PpUuPGXYvr1/view).
 
 ## Work Experience
 
