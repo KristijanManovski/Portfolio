@@ -74,7 +74,6 @@ You can see my certificate from Udemy for Software Testing as [a PDF from my Goo
 - Conduct API testing and automated API workflows using Postman, ensuring robustness and reliability of backend systems.
 
 ## CV
-You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/1_DNBznA-zItJ_Ryg-Fwo9F04s2LCw60-/view?usp=drive_link).
 You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/1OtAZd9FVnWTWmEIgV7VnGdUmduLTzd4S/view)
 
 ## LinkedIn
