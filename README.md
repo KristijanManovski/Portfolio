@@ -75,7 +75,7 @@ You can see my certificate from Udemy for Software Testing as [a PDF from my Goo
 
 ## CV
 You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/1_DNBznA-zItJ_Ryg-Fwo9F04s2LCw60-/view?usp=drive_link).
-You can download my CV as [a PDF from my Google Drive](https://drive.google.com/drive/u/0/my-drive)
+You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/1OtAZd9FVnWTWmEIgV7VnGdUmduLTzd4S/view)
 
 ## LinkedIn
 You can check my linkedin profile [linkedin]: https://www.linkedin.com/in/kristijan-manovski-734191297
