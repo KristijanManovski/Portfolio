@@ -50,6 +50,12 @@ You can see my certificate from Udemy for Software Testing as [a PDF from my Goo
 
 ## Work Experience
 
+### QA Engineer, ANTWEB
+*May 2025 - December 2025
+-Performed manual and automated testing for a SaaS platform focused on reducing carbon footprints.
+-Executed test cases using Selenium, conducted API testing with Postman, and performed SQL-based data validation.
+-Identified and documented defects, collaborating with developers and product teams to ensure high-quality, sustainability-driven features.
+
 ### QA Engineer, Nymph
 *March 2024 - Present*
 - Conduct thorough testing on the Nymph mobile application, identifying and documenting bugs to enhance functionality, usability, and reliability.
@@ -69,6 +75,7 @@ You can see my certificate from Udemy for Software Testing as [a PDF from my Goo
 
 ## CV
 You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/1_DNBznA-zItJ_Ryg-Fwo9F04s2LCw60-/view?usp=drive_link).
+You can download my CV as [a PDF from my Google Drive](https://drive.google.com/drive/u/0/my-drive)
 
 ## LinkedIn
 You can check my linkedin profile [linkedin]: https://www.linkedin.com/in/kristijan-manovski-734191297
