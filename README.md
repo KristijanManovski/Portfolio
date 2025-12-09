@@ -51,7 +51,7 @@ You can see my certificate from Udemy for Software Testing as [a PDF from my Goo
 ## Work Experience
 
 ### QA Engineer, ANTWEB
-*May 2025 - December 2025
+*May 2025 - December 2025*
 -Performed manual and automated testing for a SaaS platform focused on reducing carbon footprints.
 -Executed test cases using Selenium, conducted API testing with Postman, and performed SQL-based data validation.
 -Identified and documented defects, collaborating with developers and product teams to ensure high-quality, sustainability-driven features.
