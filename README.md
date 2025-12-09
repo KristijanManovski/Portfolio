@@ -57,7 +57,7 @@ You can see my certificate from Udemy for Software Testing as [a PDF from my Goo
 -Identified and documented defects, collaborating with developers and product teams to ensure high-quality, sustainability-driven features.
 
 ### QA Engineer, Nymph
-*March 2024 - Present*
+*March 2024 - June 2024*
 - Conduct thorough testing on the Nymph mobile application, identifying and documenting bugs to enhance functionality, usability, and reliability.
 - Collaborate closely with developers to prioritize and resolve issues, contributing to an improved user experience and adherence to industry standards.
 
