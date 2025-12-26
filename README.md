@@ -11,6 +11,9 @@
 - [Tools](#tools)
 - [Testing Methodologies](#Testing-methodologies)
 - [Examples of my work](#examples-of-my-work)
+  * **Description:** Chained Postman requests covering product catalog, user creation, login, cart lifecycle, update, and deletion.
+  * **Tools:** Postman, JSON, collection variables, assertions
+  * **Collection:** [Download/View Collection](https://github.com/KristijanManovski/Portfolio/blob/main/FakeStoreAPI%20E-commerce%20Order%20Flow.postman_collection.json.json)
   * [Test Cases in Jira](#Test-Cases-In-Jira)
   * [Bug reports in Redmine](#Bug-Reports-In-Redmine)
   * [Bug reports in Jira](#Bug-Reports-In-Jira)
