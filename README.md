@@ -11,7 +11,7 @@
 - [Tools](#tools)
 - [Testing Methodologies](#Testing-methodologies)
 - [Examples of my work](#examples-of-my-work)
-  * [Postman API Collection] (https://github.com/KristijanManovski/Portfolio/blob/main/FakeStoreAPI%20E-commerce%20Order%20Flow.postman_collection.json.json)
+  * [FakeStoreAPI – E-commerce Order Flow](./Examples-of-Work/Postman-Collections/FakeStoreAPI_Ecommerce_OrderFlow.postman_collection.json)
   * [Test Cases in Jira](#Test-Cases-In-Jira)
   * [Bug reports in Redmine](#Bug-Reports-In-Redmine)
   * [Bug reports in Jira](#Bug-Reports-In-Jira)
