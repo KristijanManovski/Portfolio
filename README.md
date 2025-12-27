@@ -170,27 +170,26 @@ You can download my CV as [a PDF from my Google Drive](https://drive.google.com/
 - Continuous testing aligned with user stories and sprint goals
 
 
-## Examples of my work
+## Examples of My Work
 
-## Test Cases in Jira
-[Test Cases in Jira Google Drive folder](https://drive.google.com/drive/u/1/folders/14rXB9RmtQkZBn3haMDm0zN-A7u5xxw15)
+### Test Cases
+- [Test Cases in Jira Google Drive folder](https://drive.google.com/drive/u/1/folders/14rXB9RmtQkZBn3haMDm0zN-A7u5xxw15) – Examples of test cases documented in Jira.
 
-### Bug reports in Redmine
+### Bug Reports
 
- -Several bugs i found on [the training webpage TEST PREFIX ](https://qatest-dev.indvp.com/)and reported:
- * Bug #1. Check [the screenshot of the bug report in Redmine](https://drive.google.com/file/d/193mJM84uQee-QqmsW6xecSJmg5ObRYIc/view)
- * Bug #2. Check [the screenshot of the bug report in Redmine](https://drive.google.com/file/d/1DW-Ak79HkhaOcxdyOHuuvGNtWGCuvIUb/view)
- * Bug #3. Check [the screenshot of the bug report in Redmine](https://drive.google.com/file/d/1ZzuEc2q9U3NHE9qVPiA5oBIwb_Bgvz1c/view)
+#### Redmine
+- Several bugs I found on [the training webpage TEST PREFIX](https://qatest-dev.indvp.com/) and reported:
+  - **Bug #1** – Screenshot in Redmine: [View Screenshot](https://drive.google.com/file/d/193mJM84uQee-QqmsW6xecSJmg5ObRYIc/view)  
+  - **Bug #2** – Screenshot in Redmine: [View Screenshot](https://drive.google.com/file/d/1DW-Ak79HkhaOcxdyOHuuvGNtWGCuvIUb/view)  
+  - **Bug #3** – Screenshot in Redmine: [View Screenshot](https://drive.google.com/file/d/1ZzuEc2q9U3NHE9qVPiA5oBIwb_Bgvz1c/view)
 
-## Bug reports in Jira
-[Bug reports in Jira Google Drive folder](https://drive.google.com/drive/u/1/folders/1Bew6SuZzHfT4LYu-LsCYKRqUSpuPdwdp)
+#### Jira
+- [Bug reports in Jira Google Drive folder](https://drive.google.com/drive/u/1/folders/1Bew6SuZzHfT4LYu-LsCYKRqUSpuPdwdp) – Collection of reported bugs with details.
 
-### Mindmaps 
-
-* Mindmap for team-building event. Check [the mindmap](https://drive.google.com/file/d/1Qk4G0GGS4Wn7SJXsBYKV1sJ4qkF0nUnd/view)
-* Mindmap for Twitter/X functionalities. Check [the mindmap](https://drive.google.com/file/d/1lnWwZrfJWN9heNZD26tOPZMrZvoEPGGW/view)
+### Mindmaps
+- [Team-Building Event Mindmap](https://drive.google.com/file/d/1Qk4G0GGS4Wn7SJXsBYKV1sJ4qkF0nUnd/view) – Mindmap created for team-building activity.  
+- [Twitter/X Functionalities Mindmap](https://drive.google.com/file/d/1lnWwZrfJWN9heNZD26tOPZMrZvoEPGGW/view) – Mindmap illustrating Twitter/X features.
 
 ### Test Charter
-
-* Test Charter i did for Facebook for my homework during my Academy at SEDC for software testing
-* You can check my test charter for Facebook as [a PDF from my Google Drive](https://drive.google.com/file/d/1BsDQEFa0iL_FA7LokjWumamsE4EJwa_x/view)
+- Test Charter for Facebook created as part of homework during the SEDC Software Testing Academy.  
+- [View Test Charter PDF](https://drive.google.com/file/d/1BsDQEFa0iL_FA7LokjWumamsE4EJwa_x/view)
