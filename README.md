@@ -20,11 +20,8 @@
   
 ## About me
 
-I am a dedicated and detail-oriented software tester with a passion for ensuring the quality and functionality of software products.
-With a keen eye for detecting bugs and a commitment to delivering top-notch user experiences, I thrive in the dynamic and challenging environment of software development.
-My experience spans across various testing methodologies and tools, allowing me to effectively collaborate with cross-functional teams to achieve project objectives.
-Through meticulous testing and comprehensive analysis, I strive to contribute to the creation of reliable and seamless software solutions.
-Join me as I showcase my expertise, insights, and contributions to the world of software testing.
+QA Engineer with experience in manual, API, and test automation.
+Focused on quality, clear documentation, and realistic test scenarios.
 
 ## Contact Information
 
