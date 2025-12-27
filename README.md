@@ -173,22 +173,24 @@ You can download my CV as [a PDF from my Google Drive](https://drive.google.com/
 ## Examples of My Work
 
 ### Table of Contents
-- [Test Cases](#test-cases)
-- [Bug Reports - Redmine](#bug-reports---redmine)
-- [Bug Reports - Jira](#bug-reports---jira)
+- [Test Cases in Jira](#test-cases-in-jira)
+- [Bug Reports in Redmine](#bug-reports-in-redmine)
+- [Bug Reports in Jira](#bug-reports-in-jira)
 - [Mindmaps](#mindmaps)
 - [Test Charter](#test-charter)
 
-### Test Cases
+---
+
+### Test Cases in Jira
 - [Test Cases in Jira Google Drive folder](https://drive.google.com/drive/u/1/folders/14rXB9RmtQkZBn3haMDm0zN-A7u5xxw15) – Examples of test cases documented in Jira.
 
-### Bug Reports - Redmine
+### Bug Reports in Redmine
 - Several bugs I found on [the training webpage TEST PREFIX](https://qatest-dev.indvp.com/) and reported:
   - **Bug #1** – Screenshot in Redmine: [View Screenshot](https://drive.google.com/file/d/193mJM84uQee-QqmsW6xecSJmg5ObRYIc/view)  
   - **Bug #2** – Screenshot in Redmine: [View Screenshot](https://drive.google.com/file/d/1DW-Ak79HkhaOcxdyOHuuvGNtWGCuvIUb/view)  
   - **Bug #3** – Screenshot in Redmine: [View Screenshot](https://drive.google.com/file/d/1ZzuEc2q9U3NHE9qVPiA5oBIwb_Bgvz1c/view)
 
-### Bug Reports - Jira
+### Bug Reports in Jira
 - [Bug reports in Jira Google Drive folder](https://drive.google.com/drive/u/1/folders/1Bew6SuZzHfT4LYu-LsCYKRqUSpuPdwdp) – Collection of reported bugs with details.
 
 ### Mindmaps
