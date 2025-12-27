@@ -132,43 +132,25 @@ You can check my linkedin profile [linkedin]: https://www.linkedin.com/in/kristi
 
 ## Tools
 
-__Jira__
+### Jira
+- Creating and managing bug reports with clear reproduction steps and evidence
+- Tracking defects through their full lifecycle
+- Working with projects, boards, and workflows in Agile teams
 
-• Know how to create bug reports
+### SQL
+- Writing SQL queries to validate data consistency and integrity
+- Performing data verification using joins, subqueries, and filters
+- Supporting backend testing through database validation
 
-• Able to create projects and track their progress
+### Postman
+- Manual and automated API testing for REST APIs
+- Creating collections, environments, and variables
+- Writing basic test scripts and assertions for API validation
 
-• Proficient in utilizing JIRA for project management and issue tracking, with expertise in creating detailed project plans, managing tasks, and tracking progress. 
+### Mind Maps & Diagrams
+- Creating simple mind maps for feature analysis and test coverage
+- Using visual diagrams to support test planning and exploratory testing
 
-• Skilled in generating comprehensive bug reports and managing software defects throughout their lifecycle.
-
-__SQL__
-
-• Proficient in designing and executing comprehensive SQL test cases, I meticulously validate database integrity, verify data consistency, and assess query performance to ensure the reliability and accuracy of data-driven applications.
-
-• Skilled in utilizing SQL queries to conduct data validation and verification, I identify discrepancies, troubleshoot data anomalies, and collaborate with development teams to resolve issues promptly, contributing to the delivery of high-quality software products.
-
-• With expertise in creating and managing test data sets, I orchestrate complex testing scenarios to simulate real-world usage conditions, uncover potential defects, and ensure robustness across different database configurations, enhancing overall software quality.
-
-• Experienced in leveraging SQL to automate database testing processes, I develop scripts and queries to streamline regression testing, accelerate test execution, and improve testing efficiency, thereby optimizing QA workflows and reducing time-to-market for software releases.
-
-__Postman__
-
-• Skilled in designing and executing test suites, I meticulously validate API endpoints, verify data integrity, and assess performance metrics to ensure optimal system functionality. 
-
-• Skilled in utilizing Postman's features such as assertions, scripts, and test runners to verify functionality, assess performance, and validate integrations, contributing to robust and reliable software systems.
-
-• With proficiency in creating and managing collections, environments, and variables, I orchestrate complex testing scenarios and automate repetitive tasks, enhancing testing efficiency and productivity.
-
-• I am proficient in utilizing Postman's collaboration features to facilitate teamwork, share test cases, and synchronize testing efforts across distributed teams, contributing to seamless software development and delivery processes.
-
-__Mind maps & Diagrams__
-
-• Know how to design simple mind maps
-
-• Experienced in creating and utilizing mind maps as powerful visual tools for brainstorming, organizing ideas, and enhancing productivity.
-
-• Skilled in utilizing mind maps for project planning, problem-solving, and creative thinking, facilitating effective communication and decision-making processes.
 
 ## Testing Methodologies
 
