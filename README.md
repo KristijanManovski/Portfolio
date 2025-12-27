@@ -82,21 +82,34 @@ You can check my linkedin profile [linkedin]: https://www.linkedin.com/in/kristi
 
 ## Skills
 
-- SQL
+### Testing Types & Techniques
+- Manual Testing
+- Exploratory Testing
+- Smoke Testing
+- Sanity Testing
+- Regression Testing
+- Test Design
+
+### API & Automation
+- API Testing (Postman)
+- UI Automation (Selenium)
+
+### Tools & Technologies
+- Jira
 - Postman
 - IntelliJ IDEA
-- Selenium
+- SQL
 - Linux
-- Test Design
-- Smoke Testing
-- Regression Testing
-- Sanity Testing 
-- Bug Reports
+- Kiwi
+- Microsoft Office
+
+### Agile & Collaboration
 - Scrum
 - Kanban
-- Microsoft Office
-- JIRA
-- Kiwi
+
+### Defect Management
+- Bug Reporting & Tracking
+
 
 ## Soft Skills
 
