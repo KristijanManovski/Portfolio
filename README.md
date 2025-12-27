@@ -49,29 +49,30 @@ Udemy Software Testing Certificate [a PDF from my Google Drive](https://drive.go
 
 ## Work Experience
 
-### QA Engineer, ANTWEB
-*May 2025 - December 2025*
+### QA Engineer – ANTWEB  
+*May 2025 – December 2025*
+- Performed manual and automated testing of a SaaS platform focused on carbon footprint reduction
+- UI automation using Selenium and API testing with Postman
+- SQL-based data validation and defect tracking in Jira
+- Collaborated with developers and product teams to ensure high-quality releases
 
--Performed manual and automated testing for a SaaS platform focused on reducing carbon footprints.
--Executed test cases using Selenium, conducted API testing with Postman, and performed SQL-based data validation.
--Identified and documented defects, collaborating with developers and product teams to ensure high-quality, sustainability-driven features.
+### QA Engineer – Nymph  
+*March 2024 – June 2024*
+- Manual testing of a mobile application (functional and usability testing)
+- Identified, documented, and verified defects throughout the development cycle
+- Worked closely with developers to prioritize and resolve issues
 
-### QA Engineer, Nymph
-*March 2024 - June 2024*
-- Conduct thorough testing on the Nymph mobile application, identifying and documenting bugs to enhance functionality, usability, and reliability.
-- Collaborate closely with developers to prioritize and resolve issues, contributing to an improved user experience and adherence to industry standards.
+### QA Testing Project – SEDC Academy  
+*2023 – 2024*
+- Created test plans and test cases for e-commerce applications
+- Executed smoke, sanity, and regression testing
+- Reported and tracked defects using industry-standard tools
 
-### QA Testing Project, SEDC Academy
-*2023 - 2024*
-- Developed tailored test plans and strategies for e-commerce solutions.
-- Conducted smoke, sanity, and regression testing to ensure platform stability.
-- Identified and documented defects using industry-standard tools, enhancing quality assurance processes for high-quality e-commerce solutions.
-
-### QA Tester, uTest
-*July 2022 - Present*
-- Develop and execute test plans, test cases, and test scripts based on project requirements and specifications.
-- Utilize automated testing tools such as Selenium and TestNG to streamline testing processes and increase efficiency.
-- Conduct API testing and automated API workflows using Postman, ensuring robustness and reliability of backend systems.
+### QA Tester – uTest  
+*July 2022 – Present*
+- Executed test cases on web and mobile applications in real-world environments
+- Performed exploratory, functional, and regression testing
+- Reported high-quality bug reports following uTest guidelines
 
 ## CV
 You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/1OtAZd9FVnWTWmEIgV7VnGdUmduLTzd4S/view)
