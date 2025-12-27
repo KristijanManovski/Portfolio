@@ -18,29 +18,23 @@
   * [Mindmaps](#MindMaps)
   * [Test Charter](#Test-Charter)
   
-## About me
-
-QA Engineer with experience in manual, API, and test automation testing.
-Focused on delivering high-quality, reliable software through clear test
-documentation, effective collaboration, and risk-based testing approaches.
+## About Me
+QA Engineer with experience in manual, API, and test automation testing. Focused on delivering high-quality and reliable software through clear test documentation, effective collaboration, and risk-based testing approaches.
 
 ## Contact Information
-
-- **Email:** [kristijan8822@gmail.com](mailto:kristijan8822@gmail.com)
-- **Phone:** [+389 (0)78 403 595](tel:+38978403595)
-
+- 📧 Email: kristijan8822@gmail.com
+- 📞 Phone: +389 78 403 595
 
 ## Education
 
-Software Testing Certification
-SEDC Academy, Skopje, Macedonia
-Started: 2023
-Completed: 2024
+### Software Testing Certification  
+**SEDC Academy**, Skopje, North Macedonia  
+*2023 – 2024*
 
-Bachelor of Laws (LL.B.), Faculty of Law
-Iustinianus Primus, SS. Cyril and Methodius University of Skopje, Macedonia
-Started: 2019
-Graduated: 2022
+### Bachelor of Laws (LL.B.)  
+**Faculty of Law “Iustinianus Primus”**,  
+Ss. Cyril and Methodius University of Skopje  
+*2019 – 2022*
 
 ## Certificates
 SEDC Software Testing Certificate [a PDF from my Google Drive](https://drive.google.com/file/d/1qiihwgKm7jfKbos8qDT1Iw-Eq8ZBxFBZ/view).
