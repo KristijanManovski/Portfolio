@@ -72,7 +72,7 @@ Udemy Software Testing Certificate [a PDF from my Google Drive](https://drive.go
 You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/1OtAZd9FVnWTWmEIgV7VnGdUmduLTzd4S/view)
 
 ## LinkedIn
-You can check my linkedin profile [linkedin]: https://www.linkedin.com/in/kristijan-manovski-734191297
+🔗 [linkedin.com/in/kristijan-manovski-734191297](https://www.linkedin.com/in/kristijan-manovski-734191297)
 
 ## Skills
 
