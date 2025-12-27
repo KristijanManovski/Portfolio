@@ -43,9 +43,9 @@ Started: 2019
 Graduated: 2022
 
 ## Certificates
-You can see my certificate from SEDC Academy for Software Testing as [a PDF from my Google Drive](https://drive.google.com/file/d/1qiihwgKm7jfKbos8qDT1Iw-Eq8ZBxFBZ/view).
+SEDC Software Testing Certificate [a PDF from my Google Drive](https://drive.google.com/file/d/1qiihwgKm7jfKbos8qDT1Iw-Eq8ZBxFBZ/view).
 
-You can see my certificate from Udemy for Software Testing as [a PDF from my Google Drive](https://drive.google.com/file/d/1YCAoKwOnpPqEccIDndVx9PpUuPGXYvr1/view).
+Udemy Software Testing Certificate [a PDF from my Google Drive](https://drive.google.com/file/d/1YCAoKwOnpPqEccIDndVx9PpUuPGXYvr1/view).
 
 ## Work Experience
 
