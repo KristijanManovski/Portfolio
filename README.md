@@ -113,67 +113,22 @@ You can check my linkedin profile [linkedin]: https://www.linkedin.com/in/kristi
 
 ## Soft Skills
 
-- **Communication:** Clear and concise communication skills demonstrated through effective documentation of test cases, bug reports, and testing procedures. Proven ability to communicate findings and recommendations to stakeholders in both technical and non-technical terms.
+- **Communication** – Clear and structured communication through well-written test cases, bug reports, and test documentation. Able to explain issues to both technical and non-technical stakeholders.
 
-- **Teamwork:** Collaborative approach showcased by actively participating in team meetings, contributing insights during discussions, and fostering a supportive team environment. Demonstrated ability to work closely with developers and other team members to achieve common goals.
+- **Teamwork** – Strong collaboration skills developed through close work with developers, product owners, and QA teams in Agile environments.
 
-- **Problem-solving:** Strong problem-solving skills highlighted by the ability to analyze complex issues, identify root causes, and propose effective solutions. Examples of creatively resolving testing challenges and overcoming obstacles during project execution.
+- **Problem-Solving** – Analytical approach to identifying root causes of defects and proposing effective solutions.
 
-- **Attention to detail:** Meticulous attention to detail demonstrated through thorough testing methodologies and meticulous bug reporting. Examples of identifying and documenting even the smallest issues to ensure comprehensive software quality assurance.
+- **Attention to Detail** – High level of precision in testing and defect reporting, ensuring issues are reproducible and well-documented.
 
-- **Adaptability:** Flexibility and adaptability showcased by successfully adapting to changing project requirements, timelines, and priorities. Evidence of adjusting testing strategies and priorities in response to evolving project needs and stakeholder feedback.
+- **Adaptability** – Comfortable working with changing requirements, priorities, and tight deadlines in fast-paced environments.
 
-- **Time management:** Effective time management skills exhibited through the organization of testing tasks, prioritization of activities, and meeting project deadlines. Examples of efficiently allocating time to different testing activities while maintaining high standards of quality.
+- **Time Management** – Effective prioritization of testing activities to meet deadlines without compromising quality.
 
-- **Critical thinking:** Demonstrated ability to think critically and analytically when evaluating software requirements, assessing risks, and designing test strategies. Examples of making informed decisions based on logical reasoning and sound judgment.
+- **Critical Thinking** – Ability to assess risks, evaluate requirements, and design meaningful test scenarios.
 
-- **Empathy:** Understanding of end-user perspectives and needs reflected in the design of test cases and scenarios. Examples of considering user experience and usability factors to ensure that software products meet user expectations and requirements.
+- **User-Oriented Mindset** – Focus on end-user experience, usability, and real-world behavior when testing applications.
 
-__Manual Testing__
-
-- Can perform manual functional and usability testing of web applications.
-- Gained hands-on experience by testing applications created for educational purposes.
-- Gained a lot of experience by testing websites during my 8 months education at SEDC Academy for software testing.
-- Skilled in exploratory testing techniques to uncover unforeseen issues and enhance overall product quality.
-- Capable of crafting detailed test cases, executing test scenarios, and reporting issues effectively to improve software quality.
-
-__Test Analysis & Design__
-
-• Experienced in test analysis and design, I possess the skills to systematically analyze software requirements, identify test objectives, and develop comprehensive test plans and strategies.
-
-• Proficient in utilizing techniques such as equivalence partitioning, boundary value analysis, and pairwise testing to generate effective test input data and ensure thorough test coverage.
-
-• Skilled in crafting detailed test cases, I design test scenarios that address both functional and non-functional aspects of software systems, facilitating rigorous testing and validation processes to deliver high-quality software products.
-
-•	Familiar with functional decomposition of products, creating state transition diagrams, writing use cases
-
-•	Can apply equivalence partitioning, boundary value analysis and methods of pairwise testing to generate test input data
-
-__API Testing__
-
-•	Know the difference between SOAP and REST APIs
-
-•	Gained experience through manual testing of APIs created for educational purposes
-
-•	Know how to manipulate requests and create test cases using the SoapUI tool
-
-__Test Documentation__
-
-•	Can create test cases and checklists and know how and in which situations to use them effectively
-
-•	Able to prepare comprehensive bug reports and provide detailed session reports
-
-__SQL Databases__
-
-• Experienced in SQL (Structured Query Language) for database management and data manipulation tasks.
-
-• Familiar with advanced SQL concepts such as joins, subqueries, and stored procedures for complex data operations.
-
-•	Can write complex requests using subqueries 
-
-•	Familiar with the use of aliases and wildcards
-
-•	Know the difference between joins and unions and can use them
 
 ## Tools
 
