@@ -20,8 +20,9 @@
   
 ## About me
 
-QA Engineer with experience in manual, API, and test automation.
-Focused on quality, clear documentation, and realistic test scenarios.
+QA Engineer with experience in manual, API, and test automation testing.
+Focused on delivering high-quality, reliable software through clear test
+documentation, effective collaboration, and risk-based testing approaches.
 
 ## Contact Information
 
