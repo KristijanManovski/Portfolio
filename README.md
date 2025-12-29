@@ -170,21 +170,21 @@ Ss. Cyril and Methodius University of Skopje
   - Demonstrates positive and negative testing, response validation, and real-world QA workflow.
 
 ### Test Cases in Jira
-- [Test Cases in Jira Google Drive folder](https://drive.google.com/drive/u/1/folders/14rXB9RmtQkZBn3haMDm0zN-A7u5xxw15)
+- [Test Cases in Jira Google Drive folder](https://drive.google.com/drive/u/1/folders/14rXB9RmtQkZBn3haMDm0zN-A7u5xxw15) – Examples of structured test cases with steps, expected results, and test coverage.
 
 ### Bug Reports in Redmine
 - Several bugs reported on [TEST PREFIX](https://qatest-dev.indvp.com/):
-  - Bug #1 – [Screenshot](https://drive.google.com/file/d/193mJM84uQee-QqmsW6xecSJmg5ObRYIc/view)  
-  - Bug #2 – [Screenshot](https://drive.google.com/file/d/1DW-Ak79HkhaOcxdyOHuuvGNtWGCuvIUb/view)  
-  - Bug #3 – [Screenshot](https://drive.google.com/file/d/1ZzuEc2q9U3NHE9qVPiA5oBIwb_Bgvz1c/view)
+  - Bug #1 – [Screenshot](https://drive.google.com/file/d/193mJM84uQee-QqmsW6xecSJmg5ObRYIc/view) – Example of a UI defect report.  
+  - Bug #2 – [Screenshot](https://drive.google.com/file/d/1DW-Ak79HkhaOcxdyOHuuvGNtWGCuvIUb/view) – Example of a functional defect report.  
+  - Bug #3 – [Screenshot](https://drive.google.com/file/d/1ZzuEc2q9U3NHE9qVPiA5oBIwb_Bgvz1c/view) – Example of a workflow/logic defect.
 
 ### Bug Reports in Jira
-- [Bug reports in Jira Google Drive folder](https://drive.google.com/drive/u/1/folders/1Bew6SuZzHfT4LYu-LsCYKRqUSpuPdwdp)
+- [Bug reports in Jira Google Drive folder](https://drive.google.com/drive/u/1/folders/1Bew6SuZzHfT4LYu-LsCYKRqUSpuPdwdp) – Collection of reported bugs, including steps to reproduce and screenshots.
 
 ### Mindmaps
-- [Team-Building Event Mindmap](https://drive.google.com/file/d/1Qk4G0GGS4Wn7SJXsBYKV1sJ4qkF0nUnd/view)  
-- [Twitter/X Functionalities Mindmap](https://drive.google.com/file/d/1lnWwZrfJWN9heNZD26tOPZMrZvoEPGGW/view)
+- [Team-Building Event Mindmap](https://drive.google.com/file/d/1Qk4G0GGS4Wn7SJXsBYKV1sJ4qkF0nUnd/view) – Visual representation of team-building activity planning.  
+- [Twitter/X Functionalities Mindmap](https://drive.google.com/file/d/1lnWwZrfJWN9heNZD26tOPZMrZvoEPGGW/view) – Feature analysis and workflow diagram for Twitter/X.
 
 ### Test Charter
-- Test Charter for Facebook during SEDC Academy  
-- [View Test Charter PDF](https://drive.google.com/file/d/1BsDQEFa0iL_FA7LokjWumamsE4EJwa_x/view)
+- Test Charter for Facebook created during SEDC Academy coursework.  
+- [View Test Charter PDF](https://drive.google.com/file/d/1BsDQEFa0iL_FA7LokjWumamsE4EJwa_x/view) – Example of session-based testing plan and scope.
