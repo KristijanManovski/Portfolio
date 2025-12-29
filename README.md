@@ -172,11 +172,27 @@ Udemy Software Testing Certificate [a PDF from my Google Drive](https://drive.go
 ## Examples of My Work
 
 ### Table of Contents
+- [Postman Collections](#postman-collections)
 - [Test Cases in Jira](#test-cases-in-jira)
 - [Bug Reports in Redmine](#bug-reports-in-redmine)
 - [Bug Reports in Jira](#bug-reports-in-jira)
 - [Mindmaps](#mindmaps)
 - [Test Charter](#test-charter)
+
+---
+
+### Postman Collections
+- **FakeStore E-commerce Order Flow** – [View Collection](https://github.com/KristijanManovski/Portfolio/blob/main/FakeStoreAPI%20E-commerce%20Order%20Flow.postman_collection.json)
+  - Demonstrates end-to-end CRUD operations and API tests for an e-commerce platform.
+  
+- **Reqres CRUD API Testing** – [View Collection](PostmanCollections/Reqres_CRUD_API_Testing.postman_collection.json)
+  - Demonstrates full CRUD flow with dynamic variable handling:
+    1. **POST** – Create User
+    2. **GET** – Retrieve Mock User
+    3. **PATCH** – Partial Update
+    4. **PUT** – Full Update
+    5. **GET** – Verify User Not Found
+  - Includes positive and negative testing, response validations, and dynamic `{{userId}}` usage.
 
 ---
 
