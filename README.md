@@ -1,23 +1,26 @@
 # Portfolio
-- [About me](#about-me)
+
+- [About Me](#about-me)
 - [Contact Information](#contact-information)
 - [Education](#education)
-- [Certificates ](#certificates)
+- [Certificates](#certificates)
 - [Work Experience](#work-experience)
 - [CV](#cv)
 - [LinkedIn](#linkedin)
 - [Skills](#skills)
 - [Soft Skills](#soft-skills)
 - [Tools](#tools)
-- [Testing Methodologies](#Testing-methodologies)
-- [Examples of my work](#examples-of-my-work)
-  * [Postman Collection: FakeStore E-commerce Order Flow](https://github.com/KristijanManovski/Portfolio/blob/main/FakeStoreAPI%20E-commerce%20Order%20Flow.postman_collection.json.json)
-  * [Test Cases in Jira](#Test-Cases-In-Jira)
-  * [Bug reports in Redmine](#Bug-Reports-In-Redmine)
-  * [Bug reports in Jira](#Bug-Reports-In-Jira)
-  * [Mindmaps](#MindMaps)
-  * [Test Charter](#Test-Charter)
-  
+- [Testing Methodologies](#testing-methodologies)
+- [Examples of My Work](#examples-of-my-work)
+  * [Postman Collections](#postman-collections)
+  * [Test Cases in Jira](#test-cases-in-jira)
+  * [Bug Reports in Redmine](#bug-reports-in-redmine)
+  * [Bug Reports in Jira](#bug-reports-in-jira)
+  * [Mindmaps](#mindmaps)
+  * [Test Charter](#test-charter)
+
+---
+
 ## About Me
 QA Engineer with experience in manual, API, and test automation testing. Focused on delivering high-quality and reliable software through clear test documentation, effective collaboration, and risk-based testing approaches.
 
@@ -37,9 +40,8 @@ Ss. Cyril and Methodius University of Skopje
 *2019 – 2022*
 
 ## Certificates
-SEDC Software Testing Certificate [a PDF from my Google Drive](https://drive.google.com/file/d/1qiihwgKm7jfKbos8qDT1Iw-Eq8ZBxFBZ/view).
-
-Udemy Software Testing Certificate [a PDF from my Google Drive](https://drive.google.com/file/d/1YCAoKwOnpPqEccIDndVx9PpUuPGXYvr1/view).
+- SEDC Software Testing Certificate [PDF](https://drive.google.com/file/d/1qiihwgKm7jfKbos8qDT1Iw-Eq8ZBxFBZ/view)  
+- Udemy Software Testing Certificate [PDF](https://drive.google.com/file/d/1YCAoKwOnpPqEccIDndVx9PpUuPGXYvr1/view)
 
 ## Work Experience
 
@@ -104,66 +106,87 @@ Udemy Software Testing Certificate [a PDF from my Google Drive](https://drive.go
 ### Defect Management
 - Bug Reporting & Tracking
 
-
 ## Soft Skills
-
-- **Communication** – Clear and structured communication through well-written test cases, bug reports, and test documentation. Able to explain issues to both technical and non-technical stakeholders.
-
-- **Teamwork** – Strong collaboration skills developed through close work with developers, product owners, and QA teams in Agile environments.
-
+- **Communication** – Clear and structured communication through well-written test cases, bug reports, and test documentation.
+- **Teamwork** – Strong collaboration skills developed through close work with developers, product owners, and QA teams.
 - **Problem-Solving** – Analytical approach to identifying root causes of defects and proposing effective solutions.
-
-- **Attention to Detail** – High level of precision in testing and defect reporting, ensuring issues are reproducible and well-documented.
-
-- **Adaptability** – Comfortable working with changing requirements, priorities, and tight deadlines in fast-paced environments.
-
-- **Time Management** – Effective prioritization of testing activities to meet deadlines without compromising quality.
-
-- **Critical Thinking** – Ability to assess risks, evaluate requirements, and design meaningful test scenarios.
-
-- **User-Oriented Mindset** – Focus on end-user experience, usability, and real-world behavior when testing applications.
-
+- **Attention to Detail** – High level of precision in testing and defect reporting.
+- **Adaptability** – Comfortable working with changing requirements, priorities, and tight deadlines.
+- **Time Management** – Effective prioritization of testing activities.
+- **Critical Thinking** – Ability to assess risks and design meaningful test scenarios.
+- **User-Oriented Mindset** – Focus on end-user experience and usability.
 
 ## Tools
 
 ### Jira
-- Creating and managing bug reports with clear reproduction steps and evidence
-- Tracking defects through their full lifecycle
-- Working with projects, boards, and workflows in Agile teams
+- Creating and managing bug reports
+- Tracking defects through full lifecycle
+- Working with projects, boards, and workflows
 
 ### SQL
-- Writing SQL queries to validate data consistency and integrity
+- Writing SQL queries to validate data
 - Performing data verification using joins, subqueries, and filters
-- Supporting backend testing through database validation
 
 ### Postman
 - Manual and automated API testing for REST APIs
 - Creating collections, environments, and variables
-- Writing basic test scripts and assertions for API validation
+- Writing test scripts and assertions
 
 ### Mind Maps & Diagrams
-- Creating simple mind maps for feature analysis and test coverage
-- Using visual diagrams to support test planning and exploratory testing
-
+- Creating mind maps for feature analysis and test coverage
+- Using visual diagrams to support test planning
 
 ## Testing Methodologies
 
 ### Black-Box Testing
-- Designing test cases based on requirements and user behavior
-- Functional, regression, and user acceptance testing (UAT)
-- Validation of system behavior without access to internal code
+- Designing test cases based on requirements
+- Functional, regression, and UAT
+- Validation without access to internal code
 
 ### White-Box Testing
-- Understanding application logic to support unit and integration testing
-- Verifying data flow, control flow, and basic code coverage
-- Supporting developers during defect analysis and validation
+- Understanding application logic for unit/integration testing
+- Verifying data/control flow
+- Supporting defect analysis
 
 ### Exploratory Testing
-- Session-based exploratory testing to discover edge cases
-- Simultaneous test design and execution
-- Risk-focused testing to uncover unexpected defects
+- Session-based exploratory testing
+- Risk-focused testing to uncover defects
 
 ### Agile Testing
-- Testing within Scrum and Kanban environments
+- Testing within Scrum and Kanban
 - Participation in sprint planning, daily stand-ups, and sprint reviews
-- Continuous testing aligned with user stories and sprint goals
+
+## Examples of My Work
+
+### Postman Collections
+- **FakeStore E-commerce Order Flow** – [View Collection](https://github.com/KristijanManovski/Portfolio/blob/main/FakeStoreAPI%20E-commerce%20Order%20Flow.postman_collection.json)
+  - End-to-end CRUD operations and API tests for an e-commerce platform.
+  
+- **Reqres CRUD API Testing** – [View Collection](https://github.com/KristijanManovski/Portfolio/blob/main/Reqres_CRUD_API_Testing.postman_collection.json)
+  - Full CRUD flow with dynamic variable handling:
+    1. POST – Create User  
+    2. GET – Retrieve User  
+    3. PATCH – Partial Update  
+    4. PUT – Full Update  
+    5. GET – Verify User Not Found  
+  - Includes positive and negative testing, response validations, and dynamic `{{userId}}` usage.
+
+### Test Cases in Jira
+- [Test Cases in Jira Google Drive folder](https://drive.google.com/drive/u/1/folders/14rXB9RmtQkZBn3haMDm0zN-A7u5xxw15)
+
+### Bug Reports in Redmine
+- Several bugs reported on [TEST PREFIX](https://qatest-dev.indvp.com/):
+  - Bug #1 – [Screenshot](https://drive.google.com/file/d/193mJM84uQee-QqmsW6xecSJmg5ObRYIc/view)  
+  - Bug #2 – [Screenshot](https://drive.google.com/file/d/1DW-Ak79HkhaOcxdyOHuuvGNtWGCuvIUb/view)  
+  - Bug #3 – [Screenshot](https://drive.google.com/file/d/1ZzuEc2q9U3NHE9qVPiA5oBIwb_Bgvz1c/view)
+
+### Bug Reports in Jira
+- [Bug reports in Jira Google Drive folder](https://drive.google.com/drive/u/1/folders/1Bew6SuZzHfT4LYu-LsCYKRqUSpuPdwdp)
+
+### Mindmaps
+- [Team-Building Event Mindmap](https://drive.google.com/file/d/1Qk4G0GGS4Wn7SJXsBYKV1sJ4qkF0nUnd/view)  
+- [Twitter/X Functionalities Mindmap](https://drive.google.com/file/d/1lnWwZrfJWN9heNZD26tOPZMrZvoEPGGW/view)
+
+### Test Charter
+- Test Charter for Facebook during SEDC Academy  
+- [View Test Charter PDF](https://drive.google.com/file/d/1BsDQEFa0iL_FA7LokjWumamsE4EJwa_x/view)
