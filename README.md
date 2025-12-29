@@ -159,10 +159,10 @@ Ss. Cyril and Methodius University of Skopje
 ## Examples of My Work
 
 ### Postman Collections
-- **FakeStore E-commerce Order Flow** – [View Collection](https://github.com/KristijanManovski/Portfolio/blob/main/FakeStoreAPI%20E-commerce%20Order%20Flow.postman_collection.json)
+- **FakeStore E-commerce Order Flow** – [Import Collection in Postman](https://raw.githubusercontent.com/KristijanManovski/Portfolio/main/FakeStoreAPI%20E-commerce%20Order%20Flow.postman_collection.json)
   - End-to-end CRUD operations and API tests for an e-commerce platform.
   
-- **Reqres CRUD API Testing** – [View Collection](https://github.com/KristijanManovski/Portfolio/blob/main/Reqres_CRUD_API_Testing.postman_collection.json)
+- **Reqres CRUD API Testing** – [Import Collection in Postman](https://raw.githubusercontent.com/KristijanManovski/Portfolio/main/Reqres_CRUD_API_Testing.postman_collection.json)
   - Full CRUD flow with dynamic variable handling:
     1. POST – Create User  
     2. GET – Retrieve User  
