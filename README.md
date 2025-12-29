@@ -160,16 +160,14 @@ Ss. Cyril and Methodius University of Skopje
 
 ### Postman Collections
 - **FakeStore E-commerce Order Flow** – [Import Collection in Postman](https://raw.githubusercontent.com/KristijanManovski/Portfolio/main/FakeStoreAPI%20E-commerce%20Order%20Flow.postman_collection.json)
-  - End-to-end CRUD operations and API tests for an e-commerce platform.
+  - Demonstrates end-to-end CRUD operations for an e-commerce platform.
+  - Includes API requests with test scripts and variable handling.
+  - Showcases practical API testing skills and workflow documentation.
   
 - **Reqres CRUD API Testing** – [Import Collection in Postman](https://raw.githubusercontent.com/KristijanManovski/Portfolio/main/Reqres_CRUD_API_Testing.postman_collection.json)
-  - Full CRUD flow with dynamic variable handling:
-    1. POST – Create User  
-    2. GET – Retrieve User  
-    3. PATCH – Partial Update  
-    4. PUT – Full Update  
-    5. GET – Verify User Not Found  
-  - Includes positive and negative testing, response validations, and dynamic `{{userId}}` usage.
+  - Full CRUD flow with dynamic variable `{{userId}}`.
+  - Requests include: POST (Create), GET (Retrieve), PATCH (Partial Update), PUT (Full Update), GET (Verify User Not Found).
+  - Demonstrates positive and negative testing, response validation, and real-world QA workflow.
 
 ### Test Cases in Jira
 - [Test Cases in Jira Google Drive folder](https://drive.google.com/drive/u/1/folders/14rXB9RmtQkZBn3haMDm0zN-A7u5xxw15)
