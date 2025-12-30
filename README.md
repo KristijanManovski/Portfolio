@@ -11,6 +11,7 @@
 - [Testing Methodologies](#testing-methodologies)
 - [Examples of My Work](#examples-of-my-work)
   * [Postman Collections](#postman-collections)
+  * [SQL Queries for QA / Backend Validation](#sql-queries-for-qa--backend-validation)
   * [Test Cases in Jira](#test-cases-in-jira)
   * [Bug Reports in Redmine](#bug-reports-in-redmine)
   * [Bug Reports in Jira](#bug-reports-in-jira)
@@ -110,6 +111,10 @@ Ss. Cyril and Methodius University of Skopje
 - **Reqres CRUD API Testing** – [Import in Postman](https://raw.githubusercontent.com/KristijanManovski/Portfolio/main/Reqres_CRUD_API_Testing.postman_collection.json)  
   Full CRUD flow with dynamic `{{userId}}`, positive/negative testing, response validations.  
 
+### SQL Queries for QA / Backend Validation
+- [SQL Backend Validation Examples](https://github.com/KristijanManovski/Portfolio/blob/main/sql_backend_validation.sql)  
+  Realistic queries used for data validation, API testing, and business logic verification.
+
 ### Test Cases in Jira
 - [Google Drive Folder](https://drive.google.com/drive/u/1/folders/14rXB9RmtQkZBn3haMDm0zN-A7u5xxw15) – structured test cases with steps & expected results  
 
@@ -127,4 +132,4 @@ Ss. Cyril and Methodius University of Skopje
 - [Twitter/X Functionalities](https://drive.google.com/file/d/1lnWwZrfJWN9heNZD26tOPZMrZvoEPGGW/view)  
 
 ### Test Charter
-- Facebook Test Charter (SEDC Academy) – [View PDF](https://drive.google.com/file/d/1BsDQEFa0iL_FA7LokjWumamsE4EJwa_x/view)  
+- Facebook Test Charter (SEDC Academy) – [View PDF](https://drive.google.com/file/d/1BsDQEFa0iL_FA7LokjWumamsE4EJwa_x/view)
