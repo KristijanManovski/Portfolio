@@ -23,3 +23,4 @@ SELECT id, status, completed_at
 FROM orders
 WHERE status = 'COMPLETED'
   AND completed_at IS NULL;
+
