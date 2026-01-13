@@ -51,7 +51,7 @@ Ss. Cyril and Methodius University of Skopje
 ### QA Engineer – ANTWEB  
 *May 2025 – December 2025*  
 - Manual & automated testing of a SaaS platform (carbon footprint reduction)  
-- UI automation (Selenium) and API testing (Postman)  
+- UI automation (Selenium & Playwright) and API testing (Postman)  
 - SQL-based data validation and defect tracking in Jira  
 - Collaborated with developers and product teams to ensure high-quality releases  
 
@@ -79,7 +79,7 @@ Ss. Cyril and Methodius University of Skopje
 - Manual Testing, Exploratory, Smoke, Sanity, Regression, Test Design  
 
 ### API & Automation
-- API Testing (Postman), UI Automation (Selenium)  
+- API Testing (Postman), UI Automation (Selenium, Playwright)  
 
 ### Agile & Collaboration
 - Scrum, Kanban  
@@ -94,6 +94,8 @@ Ss. Cyril and Methodius University of Skopje
 - **Jira:** bug reporting, tracking, boards & workflows  
 - **SQL:** data validation, joins, subqueries  
 - **Postman:** manual & automated API testing, collections, environments, test scripts  
+- **Selenium:** UI automation, regression testing  
+- **Playwright:** modern cross-browser UI automation, reporting, debugging  
 - **Mind Maps & Diagrams:** feature analysis, test planning visualization  
 
 ## Testing Methodologies
@@ -133,3 +135,4 @@ Ss. Cyril and Methodius University of Skopje
 
 ### Test Charter
 - Facebook Test Charter (SEDC Academy) – [View PDF](https://drive.google.com/file/d/1BsDQEFa0iL_FA7LokjWumamsE4EJwa_x/view)
+
