@@ -50,28 +50,33 @@ Ss. Cyril and Methodius University of Skopje
 
 ### QA Engineer – ANTWEB  
 *May 2025 – December 2025*  
-- Manual & automated testing of a SaaS platform (carbon footprint reduction)  
-- UI automation (Selenium & Playwright) and API testing (Postman)  
-- SQL-based data validation and defect tracking in Jira  
-- Collaborated with developers and product teams to ensure high-quality releases  
+- Performed manual and automated testing for a SaaS platform  
+- Designed and executed test cases using Playwright 
+- Conducted API testing with Postman and validated data using SQL queries 
+- Logged, tracked, and retested defects using JIRA 
+- Collaborated closely with developers and product teams to ensure 
+feature quality and reliability 
 
 ### QA Engineer – Nymph  
 *March 2024 – June 2024*  
-- Manual testing of mobile application (functional & usability)  
-- Identified, documented, and verified defects  
-- Worked closely with developers to prioritize & resolve issues  
+- Tested a mobile application, focusing on functionality, usability, and reliability  
+- Identified, documented, and prioritized defects 
+- Worked closely with developers to verify fixes and improve overall user experience 
 
 ### QA Testing Project – SEDC Academy  
 *2023 – 2024*  
-- Created test plans and test cases for e-commerce applications  
-- Executed smoke, sanity, and regression testing  
-- Reported & tracked defects  
+- Participated in an end-to-end testing project for an e-commerce platform
+- Created test plans, test cases, and test scenarios 
+- Performed smoke, sanity, and regression testing 
+- Documented defects and contributed to improved QA processes  
 
 ### QA Tester – uTest  
 *July 2022 – Present*  
-- Executed test cases on web & mobile applications in real-world environments  
-- Performed exploratory, functional, and regression testing  
-- Reported high-quality bug reports following uTest guidelines  
+- Executed test cases based on real world user scenarios  
+- Reported bugs with clear reproduction steps
+- Performed API testing using Postman 
+- Automated test scenarios using Playwright 
+- Collaborated with global QA team and developers  
 
 ## Skills & Soft Skills
 
