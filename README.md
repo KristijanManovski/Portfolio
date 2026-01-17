@@ -45,6 +45,7 @@ Ss. Cyril and Methodius University of Skopje
 ## Certificates
 - SEDC Software Testing Certificate [PDF](https://drive.google.com/file/d/1qiihwgKm7jfKbos8qDT1Iw-Eq8ZBxFBZ/view)  
 - Udemy Software Testing Certificate [PDF](https://drive.google.com/file/d/1YCAoKwOnpPqEccIDndVx9PpUuPGXYvr1/view)
+- Udemy AI & ChatGPT for QA Engineers Certificate [PDF](https://drive.google.com/file/d/1zvTuVAjzTm2h7-DmfeSmzevOel_YQkzY/view)
 
 ## Work Experience
 
