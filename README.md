@@ -10,6 +10,7 @@
 - [Tools](#tools)
 - [Testing Methodologies](#testing-methodologies)
 - [Examples of My Work](#examples-of-my-work)
+  * [Playwright Projects](#playwright-projects)
   * [Postman Collections](#postman-collections)
   * [SQL Queries for QA / Backend Validation](#sql-queries-for-qa--backend-validation)
   * [Test Cases in Jira](#test-cases-in-jira)
@@ -55,8 +56,7 @@ Ss. Cyril and Methodius University of Skopje
 - Designed and executed test cases using Playwright 
 - Conducted API testing with Postman and validated data using SQL queries 
 - Logged, tracked, and retested defects using JIRA 
-- Collaborated closely with developers and product teams to ensure 
-feature quality and reliability 
+- Collaborated closely with developers and product teams to ensure feature quality and reliability 
 
 ### QA Engineer – Nymph  
 *March 2024 – June 2024*  
@@ -111,6 +111,10 @@ feature quality and reliability
 - **Agile:** Scrum/Kanban participation, sprint planning & reviews  
 
 ## Examples of My Work
+
+### Playwright Projects
+- **End-to-End UI Automation & Testing** – [View on GitHub](https://github.com/KristijanManovski/Portfolio/tree/main/Playwright-Portoflio-Projects-KristijanManovski)  
+  Contains multiple sub-projects demonstrating UI automation with Playwright, including cross-browser testing, test scripts, assertions, and reporting.
 
 ### Postman Collections
 - **FakeStore E-commerce Order Flow** – [Import in Postman](https://raw.githubusercontent.com/KristijanManovski/Portfolio/main/FakeStoreAPI%20E-commerce%20Order%20Flow.postman_collection.json)  
