@@ -116,6 +116,9 @@ Ss. Cyril and Methodius University of Skopje
 - **End-to-End UI Automation & Testing** – [View on GitHub](https://github.com/KristijanManovski/Portfolio/tree/main/Playwright-Portoflio-Projects-KristijanManovski)  
   Contains multiple sub-projects demonstrating UI automation with Playwright, including cross-browser testing, test scripts, assertions, and reporting.
 
+  **Documentation:**
+  - [Test Plan – SauceDemo E-commerce Application](https://github.com/KristijanManovski/Portfolio/blob/main/Playwright-Portoflio-Projects-KristijanManovski/TEST_PLAN.md)
+
 ### Postman Collections
 - **FakeStore E-commerce Order Flow** – [Import in Postman](https://raw.githubusercontent.com/KristijanManovski/Portfolio/main/FakeStoreAPI%20E-commerce%20Order%20Flow.postman_collection.json)  
   End-to-end CRUD operations with test scripts & variable handling.  
