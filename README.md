@@ -13,8 +13,9 @@
   * [Playwright Projects](#playwright-projects)
   * [Postman Collections](#postman-collections)
   * [SQL Queries for QA / Backend Validation](#sql-queries-for-qa--backend-validation)
+  * [Test Cases (PDF)](#test-cases-pdf)
+  * [Bug Reports (PDF)](#bug-reports-pdf)
   * [Test Cases in Jira](#test-cases-in-jira)
-  * [Bug Reports in Redmine](#bug-reports-in-redmine)
   * [Bug Reports in Jira](#bug-reports-in-jira)
   * [Mindmaps](#mindmaps)
   * [Test Charter](#test-charter)
@@ -25,12 +26,12 @@
 QA Engineer with experience in manual, API, and test automation testing. Focused on delivering high-quality and reliable software through clear test documentation, effective collaboration, and risk-based testing approaches.
 
 ## CV & LinkedIn
-- [Download my CV (PDF)](https://drive.google.com/file/d/1AGYuXAmRwrUj1c-7knt_jAsol-a8jMGR/view?usp=sharing)  
+- [Download my CV (PDF)](https://drive.google.com/file/d/1AGYuXAmRwrUj1c-7knt_jAsol-a8jMGR/view?usp=sharing)
 - [🔗 My LinkedIn](https://www.linkedin.com/in/kristijan-manovski-734191297)
 
 ## Contact Information
 - 📧 Email: kristijan8822@gmail.com  
-- 📞 Phone: +389 78 403 595
+- 📞 Phone: +389 78 403 595  
 
 ## Education
 
@@ -39,122 +40,111 @@ QA Engineer with experience in manual, API, and test automation testing. Focused
 *2023 – 2024*
 
 ### Bachelor of Laws (LL.B.)  
-**Faculty of Law “Iustinianus Primus”**,  
-Ss. Cyril and Methodius University of Skopje  
+**Faculty of Law “Iustinianus Primus”**, Ss. Cyril and Methodius University of Skopje  
 *2019 – 2022*
 
 ## Certificates
-- SEDC Software Testing Certificate [PDF](https://drive.google.com/file/d/1qiihwgKm7jfKbos8qDT1Iw-Eq8ZBxFBZ/view)  
-- Udemy Software Testing Certificate [PDF](https://drive.google.com/file/d/1YCAoKwOnpPqEccIDndVx9PpUuPGXYvr1/view)
-- Udemy AI & ChatGPT for QA Engineers Certificate [PDF](https://drive.google.com/file/d/1zvTuVAjzTm2h7-DmfeSmzevOel_YQkzY/view)
+- SEDC Software Testing Certificate – [PDF](https://drive.google.com/file/d/1qiihwgKm7jfKbos8qDT1Iw-Eq8ZBxFBZ/view)
+- Udemy Software Testing Certificate – [PDF](https://drive.google.com/file/d/1YCAoKwOnpPqEccIDndVx9PpUuPGXYvr1/view)
+- Udemy AI & ChatGPT for QA Engineers – [PDF](https://drive.google.com/file/d/1zvTuVAjzTm2h7-DmfeSmzevOel_YQkzY/view)
 
 ## Work Experience
 
 ### QA Engineer – ANTWEB  
-*May 2025 – December 2025*  
-- Performed manual and automated testing for a SaaS platform  
-- Designed and executed test cases using Playwright  
-- Conducted API testing with Postman and validated data using SQL queries  
-- Logged, tracked, and retested defects using JIRA  
-- Collaborated closely with developers and product teams to ensure feature quality and reliability  
+*May 2025 – December 2025*
+- Performed manual and automated testing for a SaaS platform
+- Designed and executed test cases using Playwright
+- Conducted API testing with Postman and validated data using SQL queries
+- Logged, tracked, and retested defects using JIRA
+- Collaborated closely with developers and product teams
 
 ### QA Engineer – Nymph  
-*March 2024 – June 2024*  
-- Tested a mobile application, focusing on functionality, usability, and reliability  
-- Identified, documented, and prioritized defects  
-- Worked closely with developers to verify fixes and improve overall user experience  
+*March 2024 – June 2024*
+- Tested a mobile application focusing on functionality and usability
+- Identified, documented, and prioritized defects
+- Verified fixes and improved user experience
 
 ### QA Testing Project – SEDC Academy  
-*2023 – 2024*  
-- Participated in an end-to-end testing project for an e-commerce platform  
-- Created test plans, test cases, and test scenarios  
-- Performed smoke, sanity, and regression testing  
-- Documented defects and contributed to improved QA processes  
+*2023 – 2024*
+- End-to-end testing of an e-commerce platform
+- Created test plans, test cases, and scenarios
+- Performed smoke, sanity, and regression testing
+- Documented defects and QA improvements
 
 ### QA Tester – uTest  
-*July 2022 – Present*  
-- Executed test cases based on real-world user scenarios  
-- Reported bugs with clear reproduction steps  
-- Performed API testing using Postman  
-- Automated test scenarios using Playwright  
-- Collaborated with global QA team and developers  
+*July 2022 – Present*
+- Executed test cases based on real-world scenarios
+- Reported bugs with clear reproduction steps
+- Performed API testing using Postman
+- Automated test scenarios using Playwright
+- Collaborated with global QA teams
 
 ## Skills & Soft Skills
 
 ### Testing Types & Techniques
-- Manual Testing, Exploratory, Smoke, Sanity, Regression, Test Design  
+Manual Testing, Exploratory, Smoke, Sanity, Regression, Test Design
 
 ### API & Automation
-- API Testing (Postman), UI Automation (Selenium, Playwright)  
+API Testing (Postman), UI Automation (Selenium, Playwright)
 
 ### Agile & Collaboration
-- Scrum, Kanban  
+Scrum, Kanban
 
 ### Defect Management
-- Bug Reporting & Tracking  
+Bug Reporting & Tracking
 
 ### Soft Skills
-- Communication, Teamwork, Problem-Solving, Attention to Detail, Adaptability, Time Management, Critical Thinking, User-Oriented Mindset  
+Communication, Teamwork, Problem-Solving, Attention to Detail, Adaptability, Time Management, Critical Thinking, User-Oriented Mindset
 
 ## Tools
-- **Jira:** bug reporting, tracking, boards & workflows  
-- **SQL:** data validation, joins, subqueries  
-- **Postman:** manual & automated API testing, collections, environments, test scripts  
-- **Selenium:** UI automation, regression testing  
-- **Playwright:** modern cross-browser UI automation, reporting, debugging  
-- **Mind Maps & Diagrams:** feature analysis, test planning visualization  
+- **Jira** – bug tracking, workflows
+- **SQL** – data validation, joins, subqueries
+- **Postman** – API testing, collections, scripts
+- **Selenium** – UI automation
+- **Playwright** – cross-browser automation, reporting
+- **Mind Maps & Diagrams** – test planning & analysis
 
 ## Testing Methodologies
-- **Black-Box:** functional, regression, UAT  
-- **White-Box:** unit/integration support, data/control flow validation  
-- **Exploratory:** session-based testing, risk-focused discovery  
-- **Agile:** Scrum/Kanban participation, sprint planning & reviews  
+- **Black-Box** – functional, regression, UAT
+- **White-Box** – unit/integration support
+- **Exploratory** – risk-based testing
+- **Agile** – Scrum / Kanban
+
+---
 
 ## Examples of My Work
 
 ### Playwright Projects
-- **End-to-End UI Automation & Testing** – [View on GitHub](https://github.com/KristijanManovski/Portfolio/tree/main/Playwright-Portoflio-Projects-KristijanManovski)  
-  Contains multiple sub-projects demonstrating UI automation with Playwright, including cross-browser testing, test scripts, assertions, and reporting.
+- **End-to-End UI Automation & Testing** – [View on GitHub](https://github.com/KristijanManovski/Portfolio/tree/main/Playwright-Portoflio-Projects-KristijanManovski)
 
-  **Documentation:**
-  - [Test Plan – SauceDemo E-commerce Application](https://github.com/KristijanManovski/Portfolio/blob/main/Playwright-Portoflio-Projects-KristijanManovski/TEST_PLAN.md)
+**Documentation**
+- [Test Plan – SauceDemo E-commerce Application](https://github.com/KristijanManovski/Portfolio/blob/main/Playwright-Portoflio-Projects-KristijanManovski/TEST_PLAN.md)
 
 ### Postman Collections
-- **FakeStore E-commerce Order Flow** – [Import in Postman](https://raw.githubusercontent.com/KristijanManovski/Portfolio/main/FakeStoreAPI%20E-commerce%20Order%20Flow.postman_collection.json)  
-  End-to-end CRUD operations with test scripts & variable handling.  
-
-- **Reqres CRUD API Testing** – [Import in Postman](https://raw.githubusercontent.com/KristijanManovski/Portfolio/main/Reqres_CRUD_API_Testing.postman_collection.json)  
-  Full CRUD flow with dynamic `{{userId}}`, positive/negative testing, response validations.  
+- **FakeStore E-commerce Order Flow** – [Import Collection](https://raw.githubusercontent.com/KristijanManovski/Portfolio/main/FakeStoreAPI%20E-commerce%20Order%20Flow.postman_collection.json)
+- **Reqres CRUD API Testing** – [Import Collection](https://raw.githubusercontent.com/KristijanManovski/Portfolio/main/Reqres_CRUD_API_Testing.postman_collection.json)
 
 ### SQL Queries for QA / Backend Validation
-- [SQL Backend Validation Examples](https://github.com/KristijanManovski/Portfolio/blob/main/sql_backend_validation.sql)  
-  Realistic queries used for data validation, API testing, and business logic verification.
+- [SQL Backend Validation Examples](https://github.com/KristijanManovski/Portfolio/blob/main/sql_backend_validation.sql)
+
+### Test Cases (PDF)
+- **Sample Manual Test Cases** – [View PDF](https://drive.google.com/file/d/1JUGL1FKXWOm7jU3-4Y7lSpW3gSXRFQWg/view)  
+Structured test cases with clear steps, test data, and expected results.
+
+### Bug Reports (PDF)
+- **Sample Bug Reports** – [View PDF](https://drive.google.com/file/d/19lU1UuJr-edkrk2JVZJ7Fm0bnSqsOiJ8/view)  
+Professional bug reports with severity, priority, steps to reproduce, and evidence.
 
 ### Test Cases in Jira
-- [Google Drive Folder](https://drive.google.com/drive/u/1/folders/14rXB9RmtQkZBn3haMDm0zN-A7u5xxw15)  
-  Structured test cases with steps and expected results.
-
-### Bug Reports in Redmine
-- Reported on **TEST PREFIX** (qatest-dev.indvp.com):  
-  - Bug #1 – [Screenshot](https://drive.google.com/file/d/193mJM84uQee-QqmsW6xecSJmg5ObRYIc/view)  
-  - Bug #2 – [Screenshot](https://drive.google.com/file/d/1DW-Ak79HkhaOcxdyOHuuvGNtWGCuvIUb/view)  
-  - Bug #3 – [Screenshot](https://drive.google.com/file/d/1ZzuEc2q9U3NHE9qVPiA5oBIwb_Bgvz1c/view)  
+- [Google Drive Folder](https://drive.google.com/drive/u/1/folders/14rXB9RmtQkZBn3haMDm0zN-A7u5xxw15)
 
 ### Bug Reports in Jira
-- [Google Drive Folder](https://drive.google.com/drive/u/1/folders/1Bew6SuZzHfT4LYu-LsCYKRqUSpuPdwdp)  
-  Reported bugs with detailed reproduction steps and screenshots.
+- [Google Drive Folder](https://drive.google.com/drive/u/1/folders/1Bew6SuZzHfT4LYu-LsCYKRqUSpuPdwdp)
 
 ### Mindmaps
-High-level visual representations used to analyze features, user flows, and requirements. These mind maps support exploratory testing and help identify key risk areas.
-
-- **Team-Building Event** – [View Mind Map](https://drive.google.com/file/d/1Qk4G0GGS4Wn7SJXsBYKV1sJ4qkF0nUnd/view)  
-  Structured breakdown of goals, activities, benefits, and planning elements for a team-building event.
-
-- **Twitter/X Functionalities** – [View Mind Map](https://drive.google.com/file/d/1lnWwZrfJWN9heNZD26tOPZMrZvoEPGGW/view)  
-  Feature-based visualization of Twitter/X, covering tweets, profiles, notifications, settings, and safety.
+- **Team-Building Event** – [View Mind Map](https://drive.google.com/file/d/1Qk4G0GGS4Wn7SJXsBYKV1sJ4qkF0nUnd/view)
+- **Twitter/X Functionalities** – [View Mind Map](https://drive.google.com/file/d/1lnWwZrfJWN9heNZD26tOPZMrZvoEPGGW/view)
 
 ### Test Charter
-Example of an exploratory test charter demonstrating session-based testing, scope definition, risk identification, and test objectives.
-
-- **Facebook Test Charter (SEDC Academy)** – [View PDF](https://drive.google.com/file/d/1BsDQEFa0iL_FA7LokjWumamsE4EJwa_x/view)
+- **Facebook Exploratory Test Charter** – [View PDF](https://drive.google.com/file/d/1BsDQEFa0iL_FA7LokjWumamsE4EJwa_x/view)
 
