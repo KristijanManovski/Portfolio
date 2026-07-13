@@ -26,7 +26,7 @@
 QA Engineer with experience in manual, API, and test automation testing. Focused on delivering high-quality and reliable software through clear test documentation, effective collaboration, and risk-based testing approaches.
 
 ## CV & LinkedIn
-- [Download my CV (PDF)](https://drive.google.com/file/d/1AGYuXAmRwrUj1c-7knt_jAsol-a8jMGR/view?usp=sharing)
+- [Download my CV (PDF)](https://drive.google.com/file/d/1HcHNB5Bbpir_N3ZmIL28npZ3ZX1xj6CE/view)
 - [🔗 My LinkedIn](https://www.linkedin.com/in/kristijan-manovski-734191297)
 
 ## Contact Information
