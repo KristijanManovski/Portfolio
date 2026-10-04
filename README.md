@@ -29,7 +29,7 @@ QA Engineer with 2+ years of hands-on experience in manual testing, API testing,
 
 ## CV & LinkedIn
 
-- [Download my CV (PDF)](https://drive.google.com/file/d/1HcHNB5Bbpir_N3ZmIL28npZ3ZX1xj6CE/view)
+- [Download my CV (PDF)](https://drive.google.com/file/d/1F_VimHdS4_ciqUACHcEcGoC8HM-pa1q2/view)
 - [My LinkedIn](https://www.linkedin.com/in/kristijan-manovski-734191297)
 
 ## Contact Information
