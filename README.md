@@ -70,7 +70,7 @@ QA Engineer with 2+ years of hands-on experience in manual testing, API testing,
 
 - **Testing:** Manual Testing, Exploratory, Smoke, Sanity, Regression, Test Design, Risk-Based Testing
 - **API Testing:** Postman (collections, scripts, environments), REST APIs
-- **UI Automation:** Playwright,
+- **UI Automation:** Playwright
 - **Databases:** SQL (joins, subqueries, data validation)
 - **AI in QA:** AI-assisted test case generation, edge-case discovery, prompt writing for testing tasks
 - **Process:** Scrum, Kanban, Test Planning, Bug Reporting & Tracking
