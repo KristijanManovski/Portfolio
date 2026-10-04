@@ -70,7 +70,7 @@ QA Engineer with 2+ years of hands-on experience in manual testing, API testing,
 
 - **Testing:** Manual Testing, Exploratory, Smoke, Sanity, Regression, Test Design, Risk-Based Testing
 - **API Testing:** Postman (collections, scripts, environments), REST APIs
-- **UI Automation:** Playwright, Selenium (basic)
+- **UI Automation:** Playwright,
 - **Databases:** SQL (joins, subqueries, data validation)
 - **AI in QA:** AI-assisted test case generation, edge-case discovery, prompt writing for testing tasks
 - **Process:** Scrum, Kanban, Test Planning, Bug Reporting & Tracking
@@ -81,7 +81,6 @@ QA Engineer with 2+ years of hands-on experience in manual testing, API testing,
 - **Jira:** bug tracking, test cases, workflows
 - **Postman:** API testing, collections, scripts
 - **Playwright:** cross-browser automation, reporting
-- **Selenium:** UI automation (basic)
 - **SQL:** backend data validation
 - **Git & GitHub:** version control, portfolio projects
 - **ChatGPT / AI tools:** test design and documentation support
@@ -100,10 +99,6 @@ QA Engineer with 2+ years of hands-on experience in manual testing, API testing,
 - SEDC Software Testing Certificate – [PDF](https://drive.google.com/file/d/1qiihwgKm7jfKbos8qDT1Iw-Eq8ZBxFBZ/view)
 - Udemy Software Testing Certificate – [PDF](https://drive.google.com/file/d/1YCAoKwOnpPqEccIDndVx9PpUuPGXYvr1/view)
 - Udemy AI & ChatGPT for QA Engineers – [PDF](https://drive.google.com/file/d/1zvTuVAjzTm2h7-DmfeSmzevOel_YQkzY/view)
-
-<!-- Откако ќе почнеш подготовка, одкоментирај ја линијата подолу:
-- ISTQB Certified Tester Foundation Level (CTFL) – in progress
--->
 
 ## Education
 
